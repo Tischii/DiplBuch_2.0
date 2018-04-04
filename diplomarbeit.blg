@@ -1,5 +1,9 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: diplomarbeit.aux
 The style file: unsrtdin.bst
 Database file #1: diplom.bib
+Repeated entry---line 449 of file diplom.bib
+ : @misc{ohne
+ :           ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "fonts"
-(There was 1 warning)
+(There was 1 error message)
