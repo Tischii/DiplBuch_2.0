@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.12.13)  4 APR 2018 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.12.13)  4 APR 2018 21:24
 entering extended mode
 **./diplomarbeit.tex
 (diplomarbeit.tex
@@ -3945,7 +3945,7 @@ Package babel Info: Redefining ngerman shorthand "~
 File: abb1.jpg Graphic file (type jpg)
  <use abb1.jpg>
 Package pdftex.def Info: abb1.jpg used on input line 31.
-(pdftex.def)             Requested size: 305.15454pt x 186.14568pt.
+(pdftex.def)             Requested size: 392.3406pt x 239.3238pt.
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 20:03:36
 (epstopdf)                    size: 525362 bytes
@@ -4001,13 +4001,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
 
-<abb2.png, id=1370, 721.4955pt x 211.08862pt>
+<abb2.png, id=1369, 721.4955pt x 211.08862pt>
 File: abb2.png Graphic file (type png)
  <use abb2.png>
 Package pdftex.def Info: abb2.png used on input line 6.
 (pdftex.def)             Requested size: 348.7509pt x 102.03644pt.
 
-<abb3.jpg, id=1374, 963.6pt x 542.025pt>
+<abb3.jpg, id=1373, 963.6pt x 542.025pt>
 File: abb3.jpg Graphic file (type jpg)
  <use abb3.jpg>
 Package pdftex.def Info: abb3.jpg used on input line 13.
@@ -4958,22 +4958,22 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 382.
+(epstopdf)             \includegraphics on input line 381.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf used on input line 3
-82.
+81.
 (pdftex.def)             Requested size: 71.13188pt x 27.17236pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
  [74]
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 20:03:36
@@ -4983,22 +4983,22 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 524.
+(epstopdf)             \includegraphics on input line 523.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf used on input line 5
-24.
+23.
 (pdftex.def)             Requested size: 71.13188pt x 27.17236pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
  [75]
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 20:03:36
@@ -5008,23 +5008,48 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 664.
+(epstopdf)             \includegraphics on input line 657.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf used on input line 6
-64.
+57.
 (pdftex.def)             Requested size: 71.13188pt x 27.17236pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 664.
+(babel)             in language  on input line 657.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 664.
+(babel)             in language  on input line 657.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 664.
+(babel)             in language  on input line 657.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 664.
- [76])
+(babel)             in language  on input line 657.
+ [76]
+Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
+(epstopdf)                    date: 2018-04-04 20:03:36
+(epstopdf)                    size: 525362 bytes
+(epstopdf)             Output file: <HTL3RLogoRGB-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-04-04 20:17:50
+(epstopdf)                    size: 14760 bytes
+(epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
+to.pdf HTL3RLogoRGB.eps>
+(epstopdf)             \includegraphics on input line 762.
+Package epstopdf Info: Output file is already uptodate.
+File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
+
+<use HTL3RLogoRGB-eps-converted-to.pdf>
+Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf used on input line 7
+62.
+(pdftex.def)             Requested size: 71.13188pt x 27.17236pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 762.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 762.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 762.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 762.
+ [77])
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 20:03:36
 (epstopdf)                    size: 525362 bytes
@@ -5049,7 +5074,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 299.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 299.
- [77]
+ [78]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 319.
  
@@ -5077,7 +5102,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 321.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 321.
- [78
+ [79
 
 
 ]
@@ -5092,17 +5117,26 @@ Package natbib Warning: There were undefined citations.
 No complaints by nag.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
-(diplomarbeit.aux)
+(diplomarbeit.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
 Package rerunfilecheck Info: File `diplomarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: 752CB11B877970B763AA761DB4A7A695;13125.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 41234 strings out of 493323
- 770470 string characters out of 3139068
+ 41238 strings out of 493323
+ 770519 string characters out of 3139068
  1046606 words of memory out of 3000000
- 43375 multiletter control sequences out of 15000+200000
+ 43377 multiletter control sequences out of 15000+200000
  608965 words of font info for 121 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,24n,109p,10429b,1999s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -5120,9 +5154,9 @@ fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on diplomarbeit.pdf (87 pages, 63453383 bytes).
+Output written on diplomarbeit.pdf (88 pages, 63454678 bytes).
 PDF statistics:
- 1995 PDF objects out of 2073 (max. 8388607)
- 598 named destinations out of 1000 (max. 500000)
+ 2001 PDF objects out of 2073 (max. 8388607)
+ 600 named destinations out of 1000 (max. 500000)
  19580 words of extra memory for PDF output out of 20736 (max. 10000000)
 
