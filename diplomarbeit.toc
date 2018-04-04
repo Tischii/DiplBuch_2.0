@@ -1,8 +1,7 @@
 \select@language {ngerman}
 \select@language {english}
 \select@language {ngerman}
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{viii}{chapter*.5}
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{ix}{chapter*.6}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{viii}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Das Team}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Hatice Akyokus}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Niklas Kienreich}{1}{section.1.2}
@@ -39,22 +38,22 @@
 \contentsline {subsection}{\numberline {4.2.4}Logo}{11}{subsection.4.2.4}
 \contentsline {subsubsection}{\numberline {4.2.4.1}Logo-Arten}{11}{subsubsection.4.2.4.1}
 \contentsline {subsubsection}{\numberline {4.2.4.2}Zweck}{11}{subsubsection.4.2.4.2}
-\contentsline {paragraph}{\nonumberline Sinnhaftigkeit}{12}{section*.8}
-\contentsline {paragraph}{\nonumberline Rechtliche Folgen}{12}{section*.9}
+\contentsline {paragraph}{\nonumberline Sinnhaftigkeit}{12}{section*.7}
+\contentsline {paragraph}{\nonumberline Rechtliche Folgen}{12}{section*.8}
 \contentsline {subsubsection}{\numberline {4.2.4.3}Umsetzung}{12}{subsubsection.4.2.4.3}
-\contentsline {paragraph}{\nonumberline Das Zeichenstift-Werkzeug}{12}{section*.10}
-\contentsline {paragraph}{\nonumberline Das Pinsel-Werkzeug}{13}{section*.11}
-\contentsline {paragraph}{\nonumberline Das Ellipse-Werkzeug}{13}{section*.13}
-\contentsline {paragraph}{\nonumberline Pathfinder}{13}{section*.14}
-\contentsline {paragraph}{\nonumberline Gl\IeC {\"a}tten-Werkzeug}{14}{section*.15}
-\contentsline {paragraph}{\nonumberline Farbe}{14}{section*.17}
-\contentsline {paragraph}{\nonumberline Textwerkzeug}{17}{section*.19}
+\contentsline {paragraph}{\nonumberline Das Zeichenstift-Werkzeug}{12}{section*.9}
+\contentsline {paragraph}{\nonumberline Das Pinsel-Werkzeug}{13}{section*.10}
+\contentsline {paragraph}{\nonumberline Das Ellipse-Werkzeug}{13}{section*.12}
+\contentsline {paragraph}{\nonumberline Pathfinder}{13}{section*.13}
+\contentsline {paragraph}{\nonumberline Gl\IeC {\"a}tten-Werkzeug}{14}{section*.14}
+\contentsline {paragraph}{\nonumberline Farbe}{14}{section*.16}
+\contentsline {paragraph}{\nonumberline Textwerkzeug}{17}{section*.18}
 \contentsline {subsection}{\numberline {4.2.5}Visitenkarten}{18}{subsection.4.2.5}
 \contentsline {subsubsection}{\numberline {4.2.5.1}Zweck}{18}{subsubsection.4.2.5.1}
 \contentsline {subsubsection}{\numberline {4.2.5.2}Umsetzung}{18}{subsubsection.4.2.5.2}
-\contentsline {paragraph}{\nonumberline Neue Datei}{18}{section*.21}
-\contentsline {paragraph}{\nonumberline Vorderseite}{18}{section*.22}
-\contentsline {paragraph}{\nonumberline R\IeC {\"u}ckseite}{19}{section*.24}
+\contentsline {paragraph}{\nonumberline Neue Datei}{18}{section*.20}
+\contentsline {paragraph}{\nonumberline Vorderseite}{18}{section*.21}
+\contentsline {paragraph}{\nonumberline R\IeC {\"u}ckseite}{19}{section*.23}
 \contentsline {subsection}{\numberline {4.2.6}Designelemente}{20}{subsection.4.2.6}
 \contentsline {subsubsection}{\numberline {4.2.6.1}Zweck}{20}{subsubsection.4.2.6.1}
 \contentsline {chapter}{\numberline {5}Webauftritt}{22}{chapter.5}
@@ -66,28 +65,28 @@
 \contentsline {subsection}{\numberline {5.5.1}Content Delivery Network}{23}{subsection.5.5.1}
 \contentsline {subsection}{\numberline {5.5.2}CSS-Frameworks}{24}{subsection.5.5.2}
 \contentsline {subsubsection}{\numberline {5.5.2.1}Bootstrap oder Foundation}{24}{subsubsection.5.5.2.1}
-\contentsline {paragraph}{\nonumberline Foundation}{25}{section*.29}
-\contentsline {paragraph}{\nonumberline Slick Slider}{25}{section*.30}
-\contentsline {paragraph}{\nonumberline Create JS}{26}{section*.31}
-\contentsline {paragraph}{\nonumberline interact.js}{26}{section*.32}
+\contentsline {paragraph}{\nonumberline Foundation}{25}{section*.28}
+\contentsline {paragraph}{\nonumberline Slick Slider}{25}{section*.29}
+\contentsline {paragraph}{\nonumberline Create JS}{26}{section*.30}
+\contentsline {paragraph}{\nonumberline interact.js}{26}{section*.31}
 \contentsline {section}{\numberline {5.6}Responsiveness}{26}{section.5.6}
 \contentsline {subsection}{\numberline {5.6.1}Startseite}{27}{subsection.5.6.1}
-\contentsline {paragraph}{\nonumberline Download}{29}{section*.34}
-\contentsline {paragraph}{\nonumberline FAQ}{29}{section*.36}
-\contentsline {paragraph}{\nonumberline Kontakt}{30}{section*.38}
+\contentsline {paragraph}{\nonumberline Download}{29}{section*.33}
+\contentsline {paragraph}{\nonumberline FAQ}{29}{section*.35}
+\contentsline {paragraph}{\nonumberline Kontakt}{30}{section*.37}
 \contentsline {section}{\numberline {5.7}Storytelling}{30}{section.5.7}
 \contentsline {subsection}{\numberline {5.7.1}Story}{30}{subsection.5.7.1}
 \contentsline {subsubsection}{\numberline {5.7.1.1}Aufbau}{31}{subsubsection.5.7.1.1}
-\contentsline {paragraph}{\nonumberline Lektion 1}{33}{section*.42}
-\contentsline {paragraph}{\nonumberline Lektion 2}{33}{section*.44}
-\contentsline {paragraph}{\nonumberline Lektion 3}{34}{section*.46}
-\contentsline {paragraph}{\nonumberline Lektion 4}{34}{section*.48}
-\contentsline {paragraph}{\nonumberline Lektion 5}{34}{section*.50}
-\contentsline {paragraph}{\nonumberline Lektion 6}{35}{section*.52}
-\contentsline {paragraph}{\nonumberline Lektion 7}{35}{section*.54}
-\contentsline {paragraph}{\nonumberline Lektion 8}{36}{section*.56}
-\contentsline {paragraph}{\nonumberline Lektion 9}{36}{section*.58}
-\contentsline {paragraph}{\nonumberline Lektion 10}{36}{section*.60}
+\contentsline {paragraph}{\nonumberline Lektion 1}{33}{section*.41}
+\contentsline {paragraph}{\nonumberline Lektion 2}{33}{section*.43}
+\contentsline {paragraph}{\nonumberline Lektion 3}{34}{section*.45}
+\contentsline {paragraph}{\nonumberline Lektion 4}{34}{section*.47}
+\contentsline {paragraph}{\nonumberline Lektion 5}{34}{section*.49}
+\contentsline {paragraph}{\nonumberline Lektion 6}{35}{section*.51}
+\contentsline {paragraph}{\nonumberline Lektion 7}{35}{section*.53}
+\contentsline {paragraph}{\nonumberline Lektion 8}{36}{section*.55}
+\contentsline {paragraph}{\nonumberline Lektion 9}{36}{section*.57}
+\contentsline {paragraph}{\nonumberline Lektion 10}{36}{section*.59}
 \contentsline {subsection}{\numberline {5.7.2}Interaktive Elemente}{37}{subsection.5.7.2}
 \contentsline {subsubsection}{\numberline {5.7.2.1}Timeline}{37}{subsubsection.5.7.2.1}
 \contentsline {subsubsection}{\numberline {5.7.2.2}Memory}{38}{subsubsection.5.7.2.2}
@@ -106,21 +105,21 @@
 \contentsline {subsection}{\numberline {6.4.3}Bildrate}{43}{subsection.6.4.3}
 \contentsline {subsection}{\numberline {6.4.4}Farbraum}{43}{subsection.6.4.4}
 \contentsline {subsection}{\numberline {6.4.5}Farbabtastung}{44}{subsection.6.4.5}
-\contentsline {paragraph}{\nonumberline 4:2:2}{44}{section*.72}
-\contentsline {paragraph}{\nonumberline 4:2:0}{44}{section*.73}
-\contentsline {paragraph}{\nonumberline 4:1:1}{44}{section*.74}
+\contentsline {paragraph}{\nonumberline 4:2:2}{44}{section*.71}
+\contentsline {paragraph}{\nonumberline 4:2:0}{44}{section*.72}
+\contentsline {paragraph}{\nonumberline 4:1:1}{44}{section*.73}
 \contentsline {subsection}{\numberline {6.4.6}Wei\IeC {\ss }abgleich}{45}{subsection.6.4.6}
 \contentsline {section}{\numberline {6.5}Kameramodelle}{45}{section.6.5}
 \contentsline {subsection}{\numberline {6.5.1}DSLR Kamera - Aufbau}{45}{subsection.6.5.1}
 \contentsline {subsection}{\numberline {6.5.2}Sensoren}{46}{subsection.6.5.2}
-\contentsline {paragraph}{\nonumberline CMOS-Chips}{46}{section*.77}
-\contentsline {paragraph}{\nonumberline CCD-Chips}{46}{section*.78}
+\contentsline {paragraph}{\nonumberline CMOS-Chips}{46}{section*.76}
+\contentsline {paragraph}{\nonumberline CCD-Chips}{46}{section*.77}
 \contentsline {subsection}{\numberline {6.5.3}Canon EOS 60D}{46}{subsection.6.5.3}
 \contentsline {subsection}{\numberline {6.5.4}Canon EOS 70D}{47}{subsection.6.5.4}
 \contentsline {subsection}{\numberline {6.5.5}Objektive}{47}{subsection.6.5.5}
-\contentsline {paragraph}{\nonumberline Sch\IeC {\"a}rfentiefe}{48}{section*.80}
+\contentsline {paragraph}{\nonumberline Sch\IeC {\"a}rfentiefe}{48}{section*.79}
 \contentsline {section}{\numberline {6.6}Beleuchtung}{49}{section.6.6}
-\contentsline {paragraph}{\nonumberline Softbox}{50}{section*.83}
+\contentsline {paragraph}{\nonumberline Softbox}{50}{section*.82}
 \contentsline {section}{\numberline {6.7}Mikrofone}{50}{section.6.7}
 \contentsline {subsection}{\numberline {6.7.1}Richtcharakteristik}{50}{subsection.6.7.1}
 \contentsline {subsubsection}{\numberline {6.7.1.1}Kugelcharakteristik}{51}{subsubsection.6.7.1.1}
@@ -129,9 +128,9 @@
 \contentsline {subsubsection}{\numberline {6.7.1.4}Acht}{52}{subsubsection.6.7.1.4}
 \contentsline {subsection}{\numberline {6.7.2}Kondensatormikrofon}{53}{subsection.6.7.2}
 \contentsline {subsection}{\numberline {6.7.3}Dynamisches Mikrofon}{53}{subsection.6.7.3}
-\contentsline {paragraph}{\nonumberline Interview mit Abteilungsvorstand}{54}{section*.90}
-\contentsline {paragraph}{\nonumberline Tag der offenen T\IeC {\"u}r}{54}{section*.91}
-\contentsline {paragraph}{\nonumberline Video mit einem Absolvent}{54}{section*.92}
+\contentsline {paragraph}{\nonumberline Interview mit Abteilungsvorstand}{54}{section*.89}
+\contentsline {paragraph}{\nonumberline Tag der offenen T\IeC {\"u}r}{54}{section*.90}
+\contentsline {paragraph}{\nonumberline Video mit einem Absolvent}{54}{section*.91}
 \contentsline {section}{\numberline {6.8}Planung und Vorbereitung}{54}{section.6.8}
 \contentsline {subsection}{\numberline {6.8.1}Logline}{55}{subsection.6.8.1}
 \contentsline {subsection}{\numberline {6.8.2}Expos\'{e}}{55}{subsection.6.8.2}
@@ -141,22 +140,22 @@
 \contentsline {section}{\numberline {6.9}Setting}{56}{section.6.9}
 \contentsline {section}{\numberline {6.10}Post Production}{56}{section.6.10}
 \contentsline {subsection}{\numberline {6.10.1}Aufnahmeformate}{56}{subsection.6.10.1}
-\contentsline {paragraph}{\nonumberline MPEG}{56}{section*.95}
+\contentsline {paragraph}{\nonumberline MPEG}{56}{section*.94}
 \contentsline {subsection}{\numberline {6.10.2}Kompressionsverfahren}{57}{subsection.6.10.2}
 \contentsline {subsection}{\numberline {6.10.3}Schnittprogramme}{58}{subsection.6.10.3}
-\contentsline {paragraph}{\nonumberline Lightworks}{58}{section*.97}
-\contentsline {paragraph}{\nonumberline Adobe Premiere Pro}{58}{section*.98}
+\contentsline {paragraph}{\nonumberline Lightworks}{58}{section*.96}
+\contentsline {paragraph}{\nonumberline Adobe Premiere Pro}{58}{section*.97}
 \contentsline {subsection}{\numberline {6.10.4}Schnitt}{58}{subsection.6.10.4}
 \contentsline {subsection}{\numberline {6.10.5}Blenden}{58}{subsection.6.10.5}
 \contentsline {subsection}{\numberline {6.10.6}Color Correction}{59}{subsection.6.10.6}
-\contentsline {paragraph}{\nonumberline Vektorskop}{59}{section*.99}
-\contentsline {paragraph}{\nonumberline Histogramm}{59}{section*.101}
-\contentsline {paragraph}{\nonumberline Waveform-Monitor}{60}{section*.103}
+\contentsline {paragraph}{\nonumberline Vektorskop}{59}{section*.98}
+\contentsline {paragraph}{\nonumberline Histogramm}{59}{section*.100}
+\contentsline {paragraph}{\nonumberline Waveform-Monitor}{60}{section*.102}
 \contentsline {subsection}{\numberline {6.10.7}Lumetri-Farbkorrektur}{60}{subsection.6.10.7}
-\contentsline {paragraph}{\nonumberline Einfache Korrektur}{60}{section*.105}
-\contentsline {paragraph}{\nonumberline Kreativ}{61}{section*.106}
-\contentsline {paragraph}{\nonumberline Kurven}{61}{section*.107}
-\contentsline {paragraph}{\nonumberline Farbr\IeC {\"a}der}{61}{section*.109}
+\contentsline {paragraph}{\nonumberline Einfache Korrektur}{60}{section*.104}
+\contentsline {paragraph}{\nonumberline Kreativ}{61}{section*.105}
+\contentsline {paragraph}{\nonumberline Kurven}{61}{section*.106}
+\contentsline {paragraph}{\nonumberline Farbr\IeC {\"a}der}{61}{section*.108}
 \contentsline {subsection}{\numberline {6.10.8}Masken}{61}{subsection.6.10.8}
 \contentsline {subsection}{\numberline {6.10.9}Geschwindigkeitseffekte}{62}{subsection.6.10.9}
 \contentsline {subsection}{\numberline {6.10.10}Musik}{62}{subsection.6.10.10}
@@ -165,8 +164,8 @@
 \contentsline {subsection}{\numberline {6.11.1}Idee}{63}{subsection.6.11.1}
 \contentsline {subsection}{\numberline {6.11.2}Dreh}{63}{subsection.6.11.2}
 \contentsline {subsubsection}{\numberline {6.11.2.1}Aufbau}{63}{subsubsection.6.11.2.1}
-\contentsline {paragraph}{\nonumberline Hintergrund}{63}{section*.111}
-\contentsline {paragraph}{\nonumberline Beleuchtung}{63}{section*.113}
+\contentsline {paragraph}{\nonumberline Hintergrund}{63}{section*.110}
+\contentsline {paragraph}{\nonumberline Beleuchtung}{63}{section*.112}
 \contentsline {subsection}{\numberline {6.11.3}Schnitt}{64}{subsection.6.11.3}
 \contentsline {subsubsection}{\numberline {6.11.3.1}Grobschnitt}{64}{subsubsection.6.11.3.1}
 \contentsline {subsubsection}{\numberline {6.11.3.2}Feinschnitt}{64}{subsubsection.6.11.3.2}
@@ -186,5 +185,5 @@
 \contentsline {subsection}{\numberline {7.5.1}Zeichnen}{67}{subsection.7.5.1}
 \contentsline {subsection}{\numberline {7.5.2}Export}{68}{subsection.7.5.2}
 \contentsline {subsection}{\numberline {7.5.3}Animation}{68}{subsection.7.5.3}
-\contentsline {chapter}{\numberline {A}Anhang 1}{70}{appendix.A}
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{71}{chapter*.117}
+\contentsline {chapter}{\numberline {A}Anhang}{70}{appendix.A}
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{71}{chapter*.116}
