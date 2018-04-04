@@ -242,7 +242,7 @@ Wien, \today
 %\setcounter{tocdepth}{2}
 \tableofcontents{}
 \cleardoublepage{}
-\listoftables
+%\listoftables
 \cleardoublepage{}
 \listoffigures
 
@@ -280,7 +280,7 @@ Wien, \today
 \input{text/video_niklas.tex}
 
 \appendix
-
+\renewcommand{\kapitelautor}{}
 \chapter{Anhang\label{chap:Anhang}}
 
 %Zusätzlich sollte es geben: 
