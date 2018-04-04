@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.12)  4 APR 2018 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.12)  4 APR 2018 20:11
 entering extended mode
 **./diplomarbeit.tex
 (diplomarbeit.tex
@@ -2851,11 +2851,6 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 199.
  [16]
-
-Package natbib Warning: Citation `fonts' on page 17 undefined on input line 202
-.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 201--214
 
  []
@@ -2865,7 +2860,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 201--214
 
  []
 
-<design_abb5.png, id=923, 609.02531pt x 521.69907pt>
+<design_abb5.png, id=924, 609.02531pt x 521.69907pt>
 File: design_abb5.png Graphic file (type png)
 <use design_abb5.png>
 Package pdftex.def Info: design_abb5.png  used on input line 217. on input line
@@ -2931,7 +2926,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 238.
 [18 <./design_abb5.png>]
-<design_abb6.png, id=947, 1048.66782pt x 681.29532pt>
+<design_abb6.png, id=948, 1048.66782pt x 681.29532pt>
 File: design_abb6.png Graphic file (type png)
 <use design_abb6.png>
 Package pdftex.def Info: design_abb6.png  used on input line 241. on input line
@@ -2943,7 +2938,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 246--253
 
  []
 
-<design_abb7.png, id=950, 1047.16219pt x 682.04813pt>
+<design_abb7.png, id=951, 1047.16219pt x 682.04813pt>
 File: design_abb7.png Graphic file (type png)
 <use design_abb7.png>
 Package pdftex.def Info: design_abb7.png  used on input line 256. on input line
@@ -2984,7 +2979,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 268.
 [19 <./design_abb6.png> <./design_abb7.png>]
-<design_abb8.png, id=962, 412.54124pt x 353.06906pt>
+<design_abb8.png, id=963, 412.54124pt x 353.06906pt>
 File: design_abb8.png Graphic file (type png)
 <use design_abb8.png>
 Package pdftex.def Info: design_abb8.png  used on input line 271. on input line
@@ -2996,7 +2991,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--280
 
  []
 
-<design_abb9.png, id=964, 688.82344pt x 689.57625pt>
+<design_abb9.png, id=965, 688.82344pt x 689.57625pt>
 File: design_abb9.png Graphic file (type png)
 <use design_abb9.png>
 Package pdftex.def Info: design_abb9.png  used on input line 283. on input line
@@ -3032,7 +3027,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--292
 
  []
 
-<design_abb10.png, id=973, 867.99281pt x 663.22781pt>
+<design_abb10.png, id=974, 867.99281pt x 663.22781pt>
 File: design_abb10.png Graphic file (type png)
 <use design_abb10.png>
 Package pdftex.def Info: design_abb10.png  used on input line 295. on input lin
@@ -3265,7 +3260,7 @@ File: lstlang1.sty 2015/06/04 1.6 listings language file
 ("D:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 )
-<webseite_abb5.png, id=1081, 1445.4pt x 728.7225pt>
+<webseite_abb5.png, id=1082, 1445.4pt x 728.7225pt>
 File: webseite_abb5.png Graphic file (type png)
 <use webseite_abb5.png>
 Package pdftex.def Info: webseite_abb5.png  used on input line 154. on input li
@@ -3297,7 +3292,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 160.
  [28 <./webseite_abb5.png>]
-<webseite_abb6.png, id=1120, 1442.38875pt x 728.7225pt>
+<webseite_abb6.png, id=1121, 1442.38875pt x 728.7225pt>
 File: webseite_abb6.png Graphic file (type png)
 <use webseite_abb6.png>
 Package pdftex.def Info: webseite_abb6.png  used on input line 164. on input li
@@ -3335,7 +3330,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 174.
  [29 <./webseite_abb6.png>]
-<webseite_abb7.png, id=1128, 1445.4pt x 724.20563pt>
+<webseite_abb7.png, id=1129, 1445.4pt x 724.20563pt>
 File: webseite_abb7.png Graphic file (type png)
 <use webseite_abb7.png>
 Package pdftex.def Info: webseite_abb7.png  used on input line 179. on input li
@@ -3380,7 +3375,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 190.
 [30 <./webseite_abb7.png>]
-<webseite_abb8.png, id=1139, 1444.64719pt x 726.46407pt>
+<webseite_abb8.png, id=1140, 1444.64719pt x 726.46407pt>
 File: webseite_abb8.png Graphic file (type png)
 <use webseite_abb8.png>
 Package pdftex.def Info: webseite_abb8.png  used on input line 193. on input li
@@ -3412,7 +3407,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 197.
  [31 <./webseite_abb8.png>]
-<webseite_abb9.png, id=1146, 1445.4pt x 729.47531pt>
+<webseite_abb9.png, id=1147, 1445.4pt x 729.47531pt>
 File: webseite_abb9.png Graphic file (type png)
 <use webseite_abb9.png>
 Package pdftex.def Info: webseite_abb9.png  used on input line 233. on input li
@@ -3444,14 +3439,14 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 243.
  [32 <./webseite_abb9.png>]
-<webseite_abb12.png, id=1180, 1445.4pt x 730.98094pt>
+<webseite_abb12.png, id=1181, 1445.4pt x 730.98094pt>
 File: webseite_abb12.png Graphic file (type png)
 <use webseite_abb12.png>
 Package pdftex.def Info: webseite_abb12.png  used on input line 256. on input l
 ine 256.
 Package pdftex.def Info: Requested size: 341.43344pt x 172.67285pt on input lin
 e 256.
-<webseite_abb13.png, id=1181, 1445.4pt x 731.73375pt>
+<webseite_abb13.png, id=1182, 1445.4pt x 731.73375pt>
 File: webseite_abb13.png Graphic file (type png)
 <use webseite_abb13.png>
 Package pdftex.def Info: webseite_abb13.png  used on input line 263. on input l
@@ -3462,7 +3457,7 @@ e 263.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_abb14.png, id=1182, 1445.4pt x 729.47531pt>
+<webseite_abb14.png, id=1183, 1445.4pt x 729.47531pt>
 File: webseite_abb14.png Graphic file (type png)
 <use webseite_abb14.png>
 Package pdftex.def Info: webseite_abb14.png  used on input line 270. on input l
@@ -3494,7 +3489,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 273.
 [33 <./webseite_abb12.png>]
-<webseite_abb15.png, id=1197, 1445.4pt x 729.47531pt>
+<webseite_abb15.png, id=1198, 1445.4pt x 729.47531pt>
 File: webseite_abb15.png Graphic file (type png)
 <use webseite_abb15.png>
 Package pdftex.def Info: webseite_abb15.png  used on input line 277. on input l
@@ -3505,7 +3500,7 @@ e 277.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_abb16.png, id=1198, 1445.4pt x 729.47531pt>
+<webseite_abb16.png, id=1199, 1445.4pt x 729.47531pt>
 File: webseite_abb16.png Graphic file (type png)
 <use webseite_abb16.png>
 Package pdftex.def Info: webseite_abb16.png  used on input line 284. on input l
@@ -3537,7 +3532,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 287.
 [34 <./webseite_abb13.png> <./webseite_abb14.png>]
-<webseite_abb17.png, id=1208, 1445.4pt x 730.22812pt>
+<webseite_abb17.png, id=1209, 1445.4pt x 730.22812pt>
 File: webseite_abb17.png Graphic file (type png)
 <use webseite_abb17.png>
 Package pdftex.def Info: webseite_abb17.png  used on input line 291. on input l
@@ -3548,7 +3543,7 @@ e 291.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_abb18.png, id=1209, 1445.4pt x 729.47531pt>
+<webseite_abb18.png, id=1210, 1445.4pt x 729.47531pt>
 File: webseite_abb18.png Graphic file (type png)
 <use webseite_abb18.png>
 Package pdftex.def Info: webseite_abb18.png  used on input line 298. on input l
@@ -3580,7 +3575,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 301.
 [35 <./webseite_abb15.png> <./webseite_abb16.png>]
-<webseite_abb19.png, id=1218, 1445.4pt x 730.22812pt>
+<webseite_abb19.png, id=1219, 1445.4pt x 730.22812pt>
 File: webseite_abb19.png Graphic file (type png)
 <use webseite_abb19.png>
 Package pdftex.def Info: webseite_abb19.png  used on input line 305. on input l
@@ -3591,7 +3586,7 @@ e 305.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_abb20.png, id=1219, 1445.4pt x 729.47531pt>
+<webseite_abb20.png, id=1220, 1445.4pt x 729.47531pt>
 File: webseite_abb20.png Graphic file (type png)
 <use webseite_abb20.png>
 Package pdftex.def Info: webseite_abb20.png  used on input line 312. on input l
@@ -3601,7 +3596,7 @@ e 312.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_abb21.png, id=1220, 1445.4pt x 730.98094pt>
+<webseite_abb21.png, id=1221, 1445.4pt x 730.98094pt>
 File: webseite_abb21.png Graphic file (type png)
 <use webseite_abb21.png>
 Package pdftex.def Info: webseite_abb21.png  used on input line 320. on input l
@@ -3640,7 +3635,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 323.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 323.
-<webseite_timeline.png, id=1230, 1444.64719pt x 724.95844pt>
+<webseite_timeline.png, id=1231, 1444.64719pt x 724.95844pt>
 File: webseite_timeline.png Graphic file (type png)
 <use webseite_timeline.png>
 Package pdftex.def Info: webseite_timeline.png  used on input line 329. on inpu
@@ -3672,21 +3667,21 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 332.
 [37 <./webseite_abb19.png> <./webseite_abb20.png>]
-<webseite_memory.png, id=1239, 1445.4pt x 728.7225pt>
+<webseite_memory.png, id=1240, 1445.4pt x 728.7225pt>
 File: webseite_memory.png Graphic file (type png)
 <use webseite_memory.png>
 Package pdftex.def Info: webseite_memory.png  used on input line 336. on input 
 line 336.
 Package pdftex.def Info: Requested size: 341.43344pt x 172.13936pt on input lin
 e 336.
-<webseite_memory_1.png, id=1240, 1445.4pt x 727.21687pt>
+<webseite_memory_1.png, id=1241, 1445.4pt x 727.21687pt>
 File: webseite_memory_1.png Graphic file (type png)
 <use webseite_memory_1.png>
 Package pdftex.def Info: webseite_memory_1.png  used on input line 342. on inpu
 t line 342.
 Package pdftex.def Info: Requested size: 341.43344pt x 171.78369pt on input lin
 e 342.
-<webseite_memory_2.png, id=1241, 1445.4pt x 731.73375pt>
+<webseite_memory_2.png, id=1242, 1445.4pt x 731.73375pt>
 File: webseite_memory_2.png Graphic file (type png)
 <use webseite_memory_2.png>
 Package pdftex.def Info: webseite_memory_2.png  used on input line 348. on inpu
@@ -3728,7 +3723,7 @@ Package babel Info: Redefining ngerman shorthand "~
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_universum.png, id=1250, 1445.4pt x 727.96968pt>
+<webseite_universum.png, id=1251, 1445.4pt x 727.96968pt>
 File: webseite_universum.png Graphic file (type png)
 <use webseite_universum.png>
 Package pdftex.def Info: webseite_universum.png  used on input line 355. on inp
@@ -3738,7 +3733,7 @@ e 355.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<webseite_katze.png, id=1251, 1445.4pt x 728.7225pt>
+<webseite_katze.png, id=1252, 1445.4pt x 728.7225pt>
 File: webseite_katze.png Graphic file (type png)
 <use webseite_katze.png>
 Package pdftex.def Info: webseite_katze.png  used on input line 362. on input l
@@ -3815,7 +3810,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 4.
-<abb23.png, id=1268, 930.47626pt x 524.71031pt>
+<abb23.png, id=1269, 930.47626pt x 524.71031pt>
 File: abb23.png Graphic file (type png)
 <use abb23.png>
 Package pdftex.def Info: abb23.png  used on input line 8. on input line 8.
@@ -3829,7 +3824,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 12.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 12.
-<abb24.png, id=1269, 929.72343pt x 522.45187pt>
+<abb24.png, id=1270, 929.72343pt x 522.45187pt>
 File: abb24.png Graphic file (type png)
 <use abb24.png>
 Package pdftex.def Info: abb24.png  used on input line 16. on input line 16.
@@ -3871,7 +3866,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 20.
-<abb25.png, id=1275, 935.74594pt x 520.94624pt>
+<abb25.png, id=1276, 935.74594pt x 520.94624pt>
 File: abb25.png Graphic file (type png)
 <use abb25.png>
 Package pdftex.def Info: abb25.png  used on input line 24. on input line 24.
@@ -3923,7 +3918,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 12.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 12.
-<abb16.jpg, id=1287, 144.54pt x 156.46455pt>
+<abb16.jpg, id=1288, 144.54pt x 156.46455pt>
 File: abb16.jpg Graphic file (type jpg)
 <use abb16.jpg>
 Package pdftex.def Info: abb16.jpg  used on input line 16. on input line 16.
@@ -3964,7 +3959,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-<abb15.png, id=1300, 799.98875pt x 631.35875pt>
+<abb15.png, id=1301, 799.98875pt x 631.35875pt>
 File: abb15.png Graphic file (type png)
 <use abb15.png>
 Package pdftex.def Info: abb15.png  used on input line 33. on input line 33.
@@ -4008,7 +4003,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-<abb13.png, id=1318, 361.35pt x 301.125pt>
+<abb13.png, id=1319, 361.35pt x 301.125pt>
 File: abb13.png Graphic file (type png)
 <use abb13.png>
 Package pdftex.def Info: abb13.png  used on input line 7. on input line 7.
@@ -4080,7 +4075,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 26.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 26.
-<abb1.jpg, id=1351, 956.51471pt x 583.47397pt>
+<abb1.jpg, id=1352, 956.51471pt x 583.47397pt>
 File: abb1.jpg Graphic file (type jpg)
 <use abb1.jpg>
 Package pdftex.def Info: abb1.jpg  used on input line 31. on input line 31.
@@ -4140,13 +4135,13 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-<abb2.png, id=1379, 721.4955pt x 211.08862pt>
+<abb2.png, id=1381, 721.4955pt x 211.08862pt>
 File: abb2.png Graphic file (type png)
 <use abb2.png>
 Package pdftex.def Info: abb2.png  used on input line 6. on input line 6.
 Package pdftex.def Info: Requested size: 348.7509pt x 102.03644pt on input line
  6.
-<abb3.jpg, id=1383, 963.6pt x 542.025pt>
+<abb3.jpg, id=1385, 963.6pt x 542.025pt>
 File: abb3.jpg Graphic file (type jpg)
 <use abb3.jpg>
 Package pdftex.def Info: abb3.jpg  used on input line 13. on input line 13.
@@ -4186,7 +4181,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-<abb4.png, id=1398, 289.08pt x 289.08pt>
+<abb4.png, id=1400, 289.08pt x 289.08pt>
 File: abb4.png Graphic file (type png)
 <use abb4.png>
 Package pdftex.def Info: abb4.png  used on input line 10. on input line 10.
@@ -4217,7 +4212,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 12.
  [50 <./abb3.jpg>]
-<abb5.png, id=1411, 289.08pt x 289.08pt>
+<abb5.png, id=1413, 289.08pt x 289.08pt>
 File: abb5.png Graphic file (type png)
 <use abb5.png>
 Package pdftex.def Info: abb5.png  used on input line 18. on input line 18.
@@ -4248,13 +4243,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 22.
  [51 <./abb4.png> <./abb5.png>]
-<abb6.png, id=1428, 289.08pt x 289.08pt>
+<abb6.png, id=1430, 289.08pt x 289.08pt>
 File: abb6.png Graphic file (type png)
 <use abb6.png>
 Package pdftex.def Info: abb6.png  used on input line 26. on input line 26.
 Package pdftex.def Info: Requested size: 174.37212pt x 174.37123pt on input lin
 e 26.
-<abb7.png, id=1433, 289.08pt x 289.08pt>
+<abb7.png, id=1435, 289.08pt x 289.08pt>
 File: abb7.png Graphic file (type png)
 <use abb7.png>
 Package pdftex.def Info: abb7.png  used on input line 35. on input line 35.
@@ -4289,7 +4284,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 39.
-<abb8.png, id=1446, 1204.5pt x 752.8125pt>
+<abb8.png, id=1448, 1204.5pt x 752.8125pt>
 File: abb8.png Graphic file (type png)
 <use abb8.png>
 Package pdftex.def Info: abb8.png  used on input line 44. on input line 44.
@@ -4330,7 +4325,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 51.
 [53 <./abb7.png> <./abb8.png>]
-<abb9.png, id=1458, 1204.5pt x 752.8125pt>
+<abb9.png, id=1460, 1204.5pt x 752.8125pt>
 File: abb9.png Graphic file (type png)
 <use abb9.png>
 Package pdftex.def Info: abb9.png  used on input line 54. on input line 54.
@@ -4345,7 +4340,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 3.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 3.
-<abb26.png, id=1463, 460.72125pt x 63.98906pt>
+<abb26.png, id=1465, 460.72125pt x 63.98906pt>
 File: abb26.png Graphic file (type png)
 <use abb26.png>
 Package pdftex.def Info: abb26.png  used on input line 7. on input line 7.
@@ -4392,7 +4387,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 18.
-<abb10.png, id=1480, 975.645pt x 640.64343pt>
+<abb10.png, id=1482, 975.645pt x 640.64343pt>
 File: abb10.png Graphic file (type png)
 <use abb10.png>
 Package pdftex.def Info: abb10.png  used on input line 24. on input line 24.
@@ -4436,7 +4431,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 2.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 2.
-<abb27.png, id=1494, 551.05875pt x 305.14pt>
+<abb27.png, id=1496, 551.05875pt x 305.14pt>
 File: abb27.png Graphic file (type png)
 <use abb27.png>
 Package pdftex.def Info: abb27.png  used on input line 10. on input line 10.
@@ -4548,13 +4543,13 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 46.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 46.
-<abb22.png, id=1534, 966.61125pt x 363.60844pt>
+<abb22.png, id=1536, 966.61125pt x 363.60844pt>
 File: abb22.png Graphic file (type png)
 <use abb22.png>
 Package pdftex.def Info: abb22.png  used on input line 54. on input line 54.
 Package pdftex.def Info: Requested size: 435.93697pt x 163.98291pt on input lin
 e 54.
-<abb21.png, id=1536, 977.15062pt x 361.35pt>
+<abb21.png, id=1538, 977.15062pt x 361.35pt>
 File: abb21.png Graphic file (type png)
 <use abb21.png>
 Package pdftex.def Info: abb21.png  used on input line 63. on input line 63.
@@ -4585,7 +4580,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 66.
  [59 <./abb22.png>]
-<abb20.png, id=1550, 986.18437pt x 348.55219pt>
+<abb20.png, id=1552, 986.18437pt x 348.55219pt>
 File: abb20.png Graphic file (type png)
 <use abb20.png>
 Package pdftex.def Info: abb20.png  used on input line 73. on input line 73.
@@ -4620,7 +4615,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 88.
  [60 <./abb21.png> <./abb20.png>]
-<abb19.png, id=1566, 879.285pt x 325.96782pt>
+<abb19.png, id=1568, 879.285pt x 325.96782pt>
 File: abb19.png Graphic file (type png)
 <use abb19.png>
 Package pdftex.def Info: abb19.png  used on input line 96. on input line 96.
@@ -4655,7 +4650,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 105.
  [61 <./abb19.png>]
-<abb28.png, id=1579, 826.58812pt x 326.72063pt>
+<abb28.png, id=1581, 826.58812pt x 326.72063pt>
 File: abb28.png Graphic file (type png)
 <use abb28.png>
 Package pdftex.def Info: abb28.png  used on input line 109. on input line 109.
@@ -4712,7 +4707,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 4.
-<video_abb1.png, id=1593, 1067.48813pt x 658.71094pt>
+<video_abb1.png, id=1595, 1067.48813pt x 658.71094pt>
 File: video_abb1.png Graphic file (type png)
 <use video_abb1.png>
 Package pdftex.def Info: video_abb1.png  used on input line 14. on input line 1
@@ -4777,7 +4772,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 35.
  [64]
-<video_abb2.png, id=1612, 1032.85875pt x 643.6547pt>
+<video_abb2.png, id=1614, 1032.85875pt x 643.6547pt>
 File: video_abb2.png Graphic file (type png)
 <use video_abb2.png>
 Package pdftex.def Info: video_abb2.png  used on input line 38. on input line 3
@@ -4890,7 +4885,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 76.
-<video_abb3.png, id=1632, 167.12437pt x 362.10281pt>
+<video_abb3.png, id=1634, 167.12437pt x 362.10281pt>
 File: video_abb3.png Graphic file (type png)
 <use video_abb3.png>
 Package pdftex.def Info: video_abb3.png  used on input line 81. on input line 8
@@ -4926,7 +4921,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 85.
-<video_abb4.png, id=1640, 1175.89313pt x 670.00313pt>
+<video_abb4.png, id=1642, 1175.89313pt x 670.00313pt>
 File: video_abb4.png Graphic file (type png)
 <use video_abb4.png>
 Package pdftex.def Info: video_abb4.png  used on input line 90. on input line 9
@@ -5117,22 +5112,22 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 382.
+(epstopdf)             \includegraphics on input line 381.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf  used on input line 
-382. on input line 382.
+381. on input line 381.
 Package pdftex.def Info: Requested size: 71.13188pt x 27.17236pt on input line 
-382.
+381.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 382.
+(babel)             in language  on input line 381.
  [74]
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 19:53:39
@@ -5142,22 +5137,22 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 524.
+(epstopdf)             \includegraphics on input line 523.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf  used on input line 
-524. on input line 524.
+523. on input line 523.
 Package pdftex.def Info: Requested size: 71.13188pt x 27.17236pt on input line 
-524.
+523.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 523.
  [75]
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 19:53:39
@@ -5167,23 +5162,48 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 664.
+(epstopdf)             \includegraphics on input line 657.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf  used on input line 
-664. on input line 664.
+657. on input line 657.
 Package pdftex.def Info: Requested size: 71.13188pt x 27.17236pt on input line 
-664.
+657.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 664.
+(babel)             in language  on input line 657.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 664.
+(babel)             in language  on input line 657.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 664.
+(babel)             in language  on input line 657.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 664.
- [76])
+(babel)             in language  on input line 657.
+ [76]
+Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
+(epstopdf)                    date: 2018-04-04 19:53:39
+(epstopdf)                    size: 525362 bytes
+(epstopdf)             Output file: <HTL3RLogoRGB-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-04-04 19:54:18
+(epstopdf)                    size: 14760 bytes
+(epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
+to.pdf HTL3RLogoRGB.eps>
+(epstopdf)             \includegraphics on input line 762.
+Package epstopdf Info: Output file is already uptodate.
+File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
+<use HTL3RLogoRGB-eps-converted-to.pdf>
+Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf  used on input line 
+762. on input line 762.
+Package pdftex.def Info: Requested size: 71.13188pt x 27.17236pt on input line 
+762.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 762.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 762.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 762.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 762.
+ [77])
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 19:53:39
 (epstopdf)                    size: 525362 bytes
@@ -5208,7 +5228,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 301.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 301.
- [77]
+ [78]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 321.
  
@@ -5237,7 +5257,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 323.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 323.
-[78
+[79
 
 
 ]
@@ -5245,9 +5265,6 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 323.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 323.
-
-
-Package natbib Warning: There were undefined citations.
 
 No complaints by nag.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
@@ -5259,10 +5276,10 @@ Package rerunfilecheck Info: File `diplomarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: B816152B4B5435D7608B8DCCCE48C664;13280.
  ) 
 Here is how much of TeX's memory you used:
- 41248 strings out of 493312
- 772141 string characters out of 3138899
- 1045491 words of memory out of 3000000
- 43395 multiletter control sequences out of 15000+200000
+ 41252 strings out of 493312
+ 772190 string characters out of 3138899
+ 1045465 words of memory out of 3000000
+ 43397 multiletter control sequences out of 15000+200000
  608965 words of font info for 121 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,24n,109p,10429b,1998s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -5280,9 +5297,9 @@ fb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><D:/Program File
 s/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><D:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on diplomarbeit.pdf (88 pages, 63455564 bytes).
+Output written on diplomarbeit.pdf (89 pages, 63439178 bytes).
 PDF statistics:
- 2004 PDF objects out of 2073 (max. 8388607)
- 600 named destinations out of 1000 (max. 500000)
+ 2012 PDF objects out of 2073 (max. 8388607)
+ 602 named destinations out of 1000 (max. 500000)
  19588 words of extra memory for PDF output out of 20736 (max. 10000000)
 
