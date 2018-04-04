@@ -242,7 +242,7 @@ Wien, \today
 %\setcounter{tocdepth}{2}
 \tableofcontents{}
 \cleardoublepage{}
-\listoftables
+%\listoftables
 \cleardoublepage{}
 \listoffigures
 
@@ -280,16 +280,14 @@ Wien, \today
 \input{text/video_niklas.tex}
 
 \appendix
+\renewcommand{\kapitelautor}{}
+\chapter{Anhang\label{chap:Anhang}}
 
-\chapter{Anhang 1\label{chap:Anhang-1}}
-
-was auch immer: technische Dokumentationen etc.
-
-Zusätzlich sollte es geben: 
-\begin{itemize}
-\item Abkürzungsverzeichnis
-\item Quellenverzeichnis (hier: Bibtex im Stil plaindin)
-\end{itemize}
+%Zusätzlich sollte es geben: 
+%\begin{itemize}
+%\item Abkürzungsverzeichnis
+%\item Quellenverzeichnis (hier: Bibtex im Stil plaindin)
+%\end{itemize}
 \printindex{}
 
 %% Flattersatz -- damit werden die langen URLs besser umgebrochen

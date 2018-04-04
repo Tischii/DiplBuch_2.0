@@ -281,15 +281,13 @@ Wien, \today
 
 \appendix
 
-\chapter{Anhang 1\label{chap:Anhang-1}}
+\chapter{Anhang\label{chap:Anhang}}
 
-was auch immer: technische Dokumentationen etc.
-
-Zusätzlich sollte es geben: 
-\begin{itemize}
-\item Abkürzungsverzeichnis
-\item Quellenverzeichnis (hier: Bibtex im Stil plaindin)
-\end{itemize}
+%Zusätzlich sollte es geben: 
+%\begin{itemize}
+%\item Abkürzungsverzeichnis
+%\item Quellenverzeichnis (hier: Bibtex im Stil plaindin)
+%\end{itemize}
 \printindex{}
 
 %% Flattersatz -- damit werden die langen URLs besser umgebrochen
