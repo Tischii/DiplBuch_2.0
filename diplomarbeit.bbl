@@ -261,7 +261,7 @@
 \bibitem[47]{qrnutzen}
 \emph{Allgemeines über QR-Codes}.
 \newblock
-  \url{http://www.t-online.de/digital/smartphone/id\_46404754/was-sind-qr-codes-und-wie-nutzt-man-sie-.html},
+  \url{http://www.t-misc.de/digital/smartphone/id\_46404754/was-sind-qr-codes-und-wie-nutzt-man-sie-.html},
   Abruf: 2018-03-30
 
 \bibitem[48]{cap}
@@ -327,8 +327,8 @@
   Abruf: 2018-03-30
 
 \bibitem[59]{mobilefirst}
-\emph{Onlinemarketing-Praxis}.
-\newblock \url{https://www.onlinemarketing-praxis.de/glossar/mobile-first},
+\emph{miscmarketing-Praxis}.
+\newblock \url{https://www.miscmarketing-praxis.de/glossar/mobile-first},
   Abruf: 2018-03-30
 
 \bibitem[60]{foundationwebsite}
@@ -594,7 +594,8 @@
   Abruf: 2018-16-03
 
 \bibitem[106]{storyboardLink}
-
+\emph{Digital Storytelling}.
+\newblock \url{https://www.storyboardthat.com/}, Abruf: 2018-16-03
 
 \bibitem[107]{aufnahmeformate}
 \textsc{Jovy}, J\"{o}rg:
@@ -709,12 +710,15 @@
   Abruf: 2018-02-04
 
 \bibitem[126]{keyframes}
-
+\emph{Keyframes - Adobe Premiere Dokumentation}.
+\newblock
+  \url{https://helpx.adobe.com/at/premiere-pro/using/adding-navigating-setting-keyframes.html},
+  Abruf: 2018-04-01
 
 \bibitem[127]{ultra}
 \emph{Ultra Key}.
 \newblock
-  \url{https://www.videoschoolonline.com/green-screen-how-to-chroma-key-in-adobe-premiere-pro},
+  \url{https://www.videoschoolmisc.com/green-screen-how-to-chroma-key-in-adobe-premiere-pro},
   Abruf: 2018-04-01
 
 \bibitem[128]{iso}

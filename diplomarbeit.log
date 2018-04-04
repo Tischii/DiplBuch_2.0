@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.12)  4 APR 2018 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.2.12)  4 APR 2018 20:04
 entering extended mode
 **./diplomarbeit.tex
 (diplomarbeit.tex
@@ -5167,22 +5167,22 @@ Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    size: 14760 bytes
 (epstopdf)             Command: <epstopdf --outfile=HTL3RLogoRGB-eps-converted-
 to.pdf HTL3RLogoRGB.eps>
-(epstopdf)             \includegraphics on input line 663.
+(epstopdf)             \includegraphics on input line 664.
 Package epstopdf Info: Output file is already uptodate.
 File: HTL3RLogoRGB-eps-converted-to.pdf Graphic file (type pdf)
 <use HTL3RLogoRGB-eps-converted-to.pdf>
 Package pdftex.def Info: HTL3RLogoRGB-eps-converted-to.pdf  used on input line 
-663. on input line 663.
+664. on input line 664.
 Package pdftex.def Info: Requested size: 71.13188pt x 27.17236pt on input line 
-663.
+664.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 663.
+(babel)             in language  on input line 664.
  [76])
 Package epstopdf Info: Source file: <HTL3RLogoRGB.eps>
 (epstopdf)                    date: 2018-04-04 19:53:39
@@ -5259,11 +5259,11 @@ Package rerunfilecheck Info: File `diplomarbeit.out' has not changed.
 (rerunfilecheck)             Checksum: B816152B4B5435D7608B8DCCCE48C664;13280.
  ) 
 Here is how much of TeX's memory you used:
- 41250 strings out of 493312
- 772163 string characters out of 3138899
+ 41248 strings out of 493312
+ 772141 string characters out of 3138899
  1045491 words of memory out of 3000000
  43395 multiletter control sequences out of 15000+200000
- 609095 words of font info for 122 fonts, out of 3000000 for 9000
+ 608965 words of font info for 121 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,24n,109p,10429b,1998s stack positions out of 5000i,500n,10000p,200000b,50000s
 {D:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{D:/Program Fil
@@ -5280,9 +5280,9 @@ fb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><D:/Program File
 s/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><D:/Program Files/MiKTeX 2.9/font
 s/type1/public/lm/lmssbx10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/
 lm/lmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy8.pfb>
-Output written on diplomarbeit.pdf (88 pages, 63454738 bytes).
+Output written on diplomarbeit.pdf (88 pages, 63455564 bytes).
 PDF statistics:
- 2001 PDF objects out of 2073 (max. 8388607)
+ 2004 PDF objects out of 2073 (max. 8388607)
  600 named destinations out of 1000 (max. 500000)
  19588 words of extra memory for PDF output out of 20736 (max. 10000000)
 
