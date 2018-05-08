@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {4.2.1}Farben}{9}{subsection.4.2.1}
 \contentsline {subsubsection}{\numberline {4.2.1.1}Gr\IeC {\"u}n}{10}{subsubsection.4.2.1.1}
 \contentsline {subsubsection}{\numberline {4.2.1.2}Orange}{10}{subsubsection.4.2.1.2}
-\contentsline {subsubsection}{\numberline {4.2.1.3}Grau}{10}{subsubsection.4.2.1.3}
+\contentsline {subsubsection}{\numberline {4.2.1.3}Grau}{11}{subsubsection.4.2.1.3}
 \contentsline {subsection}{\numberline {4.2.2}Typografie}{11}{subsection.4.2.2}
 \contentsline {subsubsection}{\numberline {4.2.2.1}Parisien Night Oblique}{11}{subsubsection.4.2.2.1}
 \contentsline {subsubsection}{\numberline {4.2.2.2}Calibri}{11}{subsubsection.4.2.2.2}
@@ -46,16 +46,16 @@
 \contentsline {paragraph}{\nonumberline Das Ellipse-Werkzeug}{14}{section*.12}
 \contentsline {paragraph}{\nonumberline Pathfinder}{14}{section*.13}
 \contentsline {paragraph}{\nonumberline Gl\IeC {\"a}tten-Werkzeug}{15}{section*.14}
-\contentsline {paragraph}{\nonumberline Farbe}{15}{section*.16}
+\contentsline {paragraph}{\nonumberline Farbe}{16}{section*.16}
 \contentsline {paragraph}{\nonumberline Textwerkzeug}{18}{section*.18}
-\contentsline {subsection}{\numberline {4.2.5}Visitenkarten}{18}{subsection.4.2.5}
-\contentsline {subsubsection}{\numberline {4.2.5.1}Zweck}{18}{subsubsection.4.2.5.1}
+\contentsline {subsection}{\numberline {4.2.5}Visitenkarten}{19}{subsection.4.2.5}
+\contentsline {subsubsection}{\numberline {4.2.5.1}Zweck}{19}{subsubsection.4.2.5.1}
 \contentsline {subsubsection}{\numberline {4.2.5.2}Umsetzung}{19}{subsubsection.4.2.5.2}
 \contentsline {paragraph}{\nonumberline Neue Datei}{19}{section*.20}
 \contentsline {paragraph}{\nonumberline Vorderseite}{19}{section*.21}
 \contentsline {paragraph}{\nonumberline R\IeC {\"u}ckseite}{20}{section*.23}
-\contentsline {subsection}{\numberline {4.2.6}Designelemente}{20}{subsection.4.2.6}
-\contentsline {subsubsection}{\numberline {4.2.6.1}Zweck}{20}{subsubsection.4.2.6.1}
+\contentsline {subsection}{\numberline {4.2.6}Designelemente}{21}{subsection.4.2.6}
+\contentsline {subsubsection}{\numberline {4.2.6.1}Zweck}{21}{subsubsection.4.2.6.1}
 \contentsline {chapter}{\numberline {5}Webauftritt}{23}{chapter.5}
 \contentsline {section}{\numberline {5.1}Intention}{23}{section.5.1}
 \contentsline {section}{\numberline {5.2}Inhalt}{23}{section.5.2}
