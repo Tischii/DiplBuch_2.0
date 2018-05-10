@@ -12,7 +12,7 @@ Bei der Kugelcharakteristik wird der Schall von allen Richtungen aufgenommen, da
 \end{figure}
 \footnotetext{Quelle: https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/}
 \subsubsection{Nierencharakteristik}
-Die Niere nimmt, im Gegensatz zur Kugelcharakteristik, aus einer bevorzugten Richtung auf. Im Gegensatz zu der Kugelcharakteristik, bei der der Schall von allen Seiten aufgenommen wird, wird er bei der Niere nur von einer Seite aufgenommen, meistens von vorne. Der Schall wird von den Seiten nur sehr leise bis gar nicht aufgenommen. Der Vorteil der Niere ist, dass sie rückkopplungsfester, als die Kugel ist und sie so auch beispielsweise bei Konzerten verwendet werden kann. Der Nachteil der Niere ist der sogenannte Nachbesprechungseffekt.\citep{naheffekt}\citep{kugel} Das bedeutet: "Ab einer gewissen Nähe der Schallquelle werden die tieffrequenten Anteile dominanter." (https://www.delamar.de/faq/nahbesprechungseffekt-34021/ [Zugriff: 17.03.2018])
+Die Niere nimmt, im Gegensatz zur Kugelcharakteristik, aus einer bevorzugten Richtung auf. Im Gegensatz zu der Kugelcharakteristik, bei der der Schall von allen Seiten aufgenommen wird, wird er bei der Niere nur von einer Seite aufgenommen, meistens von vorne. Der Schall wird von den Seiten nur sehr leise bis gar nicht aufgenommen. Der Vorteil der Niere ist, dass sie rückkopplungsfester, als die Kugel ist und sie so auch beispielsweise bei Konzerten verwendet werden kann. Der Nachteil der Niere ist der sogenannte Nahbesprechungseffekt.\citep{naheffekt}\citep{kugel} Das bedeutet: "Ab einer gewissen Nähe der Schallquelle werden die tieffrequenten Anteile dominanter." (https://www.delamar.de/faq/nahbesprechungseffekt-34021/ [Zugriff: 17.03.2018])
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{abb5} 
@@ -57,7 +57,7 @@ Bei einem Kondensatormikrofon treffen die Schallwellen zuerst auf die Membran, w
 \footnotetext{Quelle: https://de.wikipedia.org/wiki/Dynamisches\_Mikrofon\#/media/File:Tauchspulenmikrofon.svg}
 \paragraph{Interview mit Abteilungsvorstand}
 \leavevmode \\
-Bei der Aufnahme des Videos mit dem Abteilungsvorstand Dr. Hager wurde das t-bone GZ 400 Grenzflächen-Mikrofon verwendet. Das Mikrofon arbeitet mit der Richtcharakteristik Superniere. Das Mikrofon wurde in die Mitte des Tisches platziert, um die Stimmen der Interviewerin und des Abteilungsvorstandes einzufangen.\newline
+Bei der Aufnahme des Videos mit dem Abteilungsvorstand Dr. Hager wurde das t-bone GZ 400 Grenzflächen-Mikrofon verwendet. Das Mikrofon arbeitet mit der Richtcharakteristik Halbniere. Das Mikrofon wurde in die Mitte des Tisches platziert, um die Stimmen der Interviewerin und des Abteilungsvorstandes einzufangen.\newline
 Bei dem Video wurden bewusst keine Ansteckmikrofone verwendet, um nicht das typische Interview-Bild widerzuspiegeln, wo die Mikrofone an den Personen angesteckt werden und man diese dann auch im Video sieht.
 \paragraph{Tag der offenen Tür}
 \leavevmode \\
