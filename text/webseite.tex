@@ -24,7 +24,7 @@ Framework heißt übersetzt Rahmenkonstruktion und wird häufig bei Webseiten ve
 Ein Content Delivery Network sorgt für eine schnelle und zuverlässige Auslieferung von Medieninhalten, welche mit Hilfe von Caching im Internet vorgehalten werden. \cite{cdn}
 
 \begin{quote}
-"Das CDN besteht aus einem Ursprungsserver (Originserver), auf dem die zu verteilenden Inhalte ablegt [sic!] werden, vielen Replica-Servern, welche die Kopien der Inhalte vorhalten, sowie einem Distributionssystem, das die Inhalte auf den Replica-Servern verteilt. Für die Umleitung der Nutzeranfragen auf die einzelnen Replica-Server sorgt ein Request-Routing-System. Nachdem ein Client eine Anfrage an das Content Delivery Network gesendet hat, wählt das Request-Routing-System den geeigneten Replica-Server aus. Bei der Auswahl bezieht es Kennzahlen über deren aktuelle Belastung (CPU-Auslastung, Menge der aktiven Verbindungen etc.) und über die Netzwerkverbindung zwischen dem anfragenden System und dem Server mit ein. Ist der Server ausgewählt, wird die Nutzeranfrageentsprechend umgeleitet." \cite{zitatcdn}
+"Das CDN besteht aus einem Ursprungsserver (Originserver), auf dem die zu verteilenden Inhalte ablegt [sic!] werden, vielen Replica-Servern, welche die Kopien der Inhalte vorhalten, sowie einem Distributionssystem, das die Inhalte auf den Replica-Servern verteilt. Für die Umleitung der Nutzeranfragen auf die einzelnen Replica-Server sorgt ein Request-Routing-System. Nachdem ein Client eine Anfrage an das Content Delivery Network gesendet hat, wählt das Request-Routing-System den geeigneten Replica-Server aus. Bei der Auswahl bezieht es Kennzahlen über deren aktuelle Belastung (CPU-Auslastung, Menge der aktiven Verbindungen etc.) und über die Netzwerkverbindung zwischen dem anfragenden System und dem Server mit ein. Ist der Server ausgewählt, wird die Nutzeranfrageentsprechend umgeleitet." (https://blog.adacor.com/wie-funktioniert-ein-content-delivery-network\_2983.html [Zugriff: 30.03.2018]
 \end{quote}
 Die Vorteile eines Content Delivery Networks sind die schnellen Ladezeiten, die hohe Ausfallsicherheit und eine optimale globale Lastverteilung. Allerdings kann man die Dokumente, welche man von einem Content Delivery Network bezieht, nicht optimieren. Vor allem bei CSS-Frameworks ist dies ein großer Nachteil, weil man die CSS-Styles überschreiben muss. Außerdem gibt es keine Garantie, dass die Webseite pre-cached wurde, da vor allem mobile Geräte einen kleinen und ineffizienten Cache haben. Ein wichtiger Punkt ist, dass Content Delivery Networks nicht in allen Ländern zur Verfügung stehen, da sie aus geografischen oder politischen Gründen blockiert werden. Allerdings ist dies kein Problem für die Diplomarbeit Insight, weil die Webseite nur für User in Österreich gedacht ist. \cite{cdnnachteile}
 \leavevmode \\
@@ -87,7 +87,7 @@ Interact.js ist ein JavaScript-Framework, welches für Drag and Drop und Muti-To
 Responsive Webdesign bedeutet, dass sich der Inhalt einer Webseite an die Bildschirmauflösung des Endgeräts anpasst. Der steigende Marktanteil von Smartphones und Tablets zwingt die Entwicklung von responsiven Webseiten. Dabei soll die Trennung zwischen einer Mobil- und Desktopversion vermieden werden, da dadurch ein erhöhter Pflegeaufwand entsteht. Durch die stetige Änderung von Tablet- und Smartphoneformate, werden mehrere Versionen von Nöten sein und das soll mit einer responsiven Webseite verhindert werden.
 Um zu gewährleisten, dass die Webseite auf allen Endgeräten einwandfrei funktioniert, wurde auf eine responsive Webseite einen sehr großen Wert gelegt. Vor allem, da die Webseite sehr viele Bilder enthält.
 \begin{quote}
-"Responsive Webdesign ist kein Trend! Studien zum Absatz mobiler Endgeräte belegen eine stetige Zunahme der Verkäufe von Tablets und Smartphones. Diese Entwicklung wird nicht nur von der Fachszene mit Euphorie verfolgt, es gibt auch fast täglich neue Entwicklungen zum Thema der technischen und grafischen Umsetzung von Webseiten für mobile Endgeräte. Responsive Webdesign spielt mit der geräteübergreifenden Flexibilität eine tragende Rolle in dieser Bewegung die sich zunehmend zu einem Standard entwickelt." \cite{responsive}
+"Responsive Webdesign ist kein Trend! Studien zum Absatz mobiler Endgeräte belegen eine stetige Zunahme der Verkäufe von Tablets und Smartphones. Diese Entwicklung wird nicht nur von der Fachszene mit Euphorie verfolgt, es gibt auch fast täglich neue Entwicklungen zum Thema der technischen und grafischen Umsetzung von Webseiten für mobile Endgeräte. Responsive Webdesign spielt mit der geräteübergreifenden Flexibilität eine tragende Rolle in dieser Bewegung die sich zunehmend zu einem Standard entwickelt." (https://www.responsive-webdesign.mobi/warum-responsive-webdesign/[Zugriff: 18.03.2018]
 \end{quote}
 Durch ein responsives Design wird eine bessere Bedienbarkeit gewährleistet und somit die Bounce-Rate deutlich reduziert. Außerdem ergibt sich weniger Wartungsaufwand bei Updates.  Das CSS-Framework hilft dabei als Gerüst, die Webseite responsiv zu machen. Allerdings muss auch nachgeholfen werden und dies erfolgte hauptsächlich mit Flexbox. Dies ist eine sehr einfache Möglichkeit, flexible Layouts zu erstellen, ohne CSS-Einstellungen, wie position zu verwenden. In der Diplomarbeit wurde sie hauptsächlich dafür verwendet, Elemente zu zentrieren, denn dies erweist sich, vor allem für das vertikale Zentrieren von Elementen, als kompliziert. \cite{responsive}
 \lstset{
@@ -111,7 +111,7 @@ Durch ein responsives Design wird eine bessere Bedienbarkeit gewährleistet und 
 \end{lstlisting} \leavevmode \newline
 Wie in den CSS Stylings zu erkennen ist, wird auf das Element mit der Klasse content, eine Flexbox angewendet. Alle Kindelemente von content werden, sowohl horizontal als auch vertikal zentriert, angezeigt. Außerdem wurden bei den Größenangaben keine Werte in Pixel angegeben. Das Pixel ist eine absolute CSS Einheit und darin liegt auch das Problem, denn sobald die Webseite verkleinert wird, bewegt sich der Inhalt nicht mit und ist somit nicht responsiv. Deswegen wurden relative CSS Einheiten, wie vw, vh und rem verwendet. Die Einheiten vw und vh stehen für viewport width und viewport height und entsprechen dem 100. Teil der Breite des Anzeigebereiches. Allerdings werden sie vom Internet Explorer erst ab Version 9 unterstützt. Die Einheiten viewport width und viewport height wurden für Div-Boxen verwendet, da es wichtig ist, dass sie responsiv sind.\cite{wiki}  Für Schriftarten wurden die Einheiten rem, root em und em verwendet. 
 \begin{quote}
-„rem verhält sich genauso wie em mit dem einzigen Unterschied, dass das sich der rem-Wert am Root-Element orientiert (also an der Schriftgröße, für body bzw. html), statt sich wie em an der Schriftgröße des jeweiligen Eltern-Elements zu orientieren.“ \cite{remzitat}
+„rem verhält sich genauso wie em mit dem einzigen Unterschied, dass das sich der rem-Wert am Root-Element orientiert (also an der Schriftgröße, für body bzw. html), statt sich wie em an der Schriftgröße des jeweiligen Eltern-Elements zu orientieren.“ (https://www.elmastudio.de/css-tipp-rem-als-einheit-fur-schriftgrose-nutzen [Zugriff: 15.03.2018]
 \end{quote}
 Da rem nicht von älteren Browsern unterstützt wird, musste eine Fallback-Lösung in px im Stylesheet definiert werden. \cite{remzitat}  Außerdem wurden Breakpoints eingearbeitet, um eine Responsiveness, vor allem für mobile Geräte, zu gewährleisten. Ein Breakpoint wird durch eine Media Query definiert.
 \subsection{Startseite}
@@ -155,7 +155,7 @@ Die Startseite wurde mit jQuery entwickelt. Mittels der Library, parallax.js, wu
 	\caption{Die Startseite}
 \end{figure}
 \begin{quote}
-"Parallax Scrolling, oft auch Parallax Design, ist ein Begriff aus dem Bereich des Webdesigns. Es handelt sich letztendlich um einen Designansatz, der erzeugt wird, indem unterschiedliche Ebenen erstellt und asynchron gegeneinander geschoben werden - wie auf dieser Seite oft zu beobachten ist." \cite{parallaxzitat}
+"Parallax Scrolling, oft auch Parallax Design, ist ein Begriff aus dem Bereich des Webdesigns. Es handelt sich letztendlich um einen Designansatz, der erzeugt wird, indem unterschiedliche Ebenen erstellt und asynchron gegeneinander geschoben werden - wie auf dieser Seite oft zu beobachten ist." (https://software-design.de/it-blog/show/parallax-scrolling-nutzung-und-nachteile [Zugriff: 30.03.2018)
 \end{quote}
 Die Library wird im HTML-Code aufgerufen und kann nach Belieben angepasst werden. \leavevmode \newpage
 \paragraph{Download} \leavevmode \\
@@ -181,7 +181,7 @@ Das Team hat eine eigene E-Mail-Adresse erstellt, welches die ausgefüllten Kont
 \end{figure} \leavevmode \newline
 \section{Storytelling} 
 \begin{quote}
-“Kinder verpacken Ihre Ideen und Gedanken oftmals in Geschichten, um uns Erwachsene damit ihre Welt zu erklären. Als Erwachsene wiederum müssen wir es wieder lernen, Geschichten zu erzählen.“   \cite{storytellingzitat}
+“Kinder verpacken Ihre Ideen und Gedanken oftmals in Geschichten, um uns Erwachsene damit ihre Welt zu erklären. Als Erwachsene wiederum müssen wir es wieder lernen, Geschichten zu erzählen.“ (http://www.erfolgszeiten.at/weshalb-storytelling-wichtig-ist [Zugriff: 30.03.2018]
 \end{quote}
 Storytelling vermittelt durch den Einsatz von Geschichten Information. Die Geschichten können real oder konstruiert sein, es muss lediglich gut ankommen und im Kopf der Nutzer bleiben. Weiters dient Storytelling dazu, die Aufmerksamkeit des Nutzers auf eine kreative Weise zu ergattern. Die Informationen werden dabei anschaulich gemacht, um die Botschaft ankommen zu lassen. Wichtig ist die Erstellung eines oder mehreren Protagonisten und einem Problem. Im Laufe der Geschichte soll sich das Problem lösen, aber das muss nicht unbedingt sein. Eine gute Geschichte führt dazu, dass sich die Nutzer mit der Thematik auseinandersetzen und emotional aufgeladen sind. Weiters sorgt eine gute Story für Begeisterung. Es gibt verschiedene Arten von Storytelling, welche sich von Büchern bis hin zu Webseiten erstreckt. Das Internet bietet hier eine große Möglichkeit für das Erzählen von Geschichten. Wichtig ist vor allem die Interaktivität, damit es nicht zu schnell langweilig wird.  Für das Team war es wichtig, die Zielgruppe durch die Geschichte zu erreichen. Dabei sollten Klischees vermieden werden und die Nutzer sollten sich mit dem Erzähler identifizieren können. \cite{storytelling}
 \subsection{Story}
@@ -251,63 +251,63 @@ Hierbei wird der letzte Slide ermittelt und den Buttons zum Weiterschalten ein L
 In den folgenden Absätzen, werden alle Lektionen zusammengefasst. 
 \paragraph{Lektion 1}\leavevmode \\
 In der ersten Lektion wird der Charakter, Rene Weg, vorgestellt. Nachdem er sich humorvoll vorgestellt hat, werden Fragen rund um die HTL beantwortet. Um dies veranschaulichen zu können, wird ein Animationsvideo vorgeführt. Die erste Lektion dient nur als Einführung in eine HTL und soll die User mit Rene Weg bekannt machen. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb12} 
 	\caption{Der Anfang}
 \end{figure}
 \paragraph{Lektion 2} \leavevmode \\
 Da die HTL etwas Neues für die User ist und sie nicht wissen, was ein Abteilungsvorstand ist, geht es in der zweiten Lektion um ihn. Dabei wird erklärt, was ein Abteilungsvorstand ist. Außerdem wird ein Interview mit dem Abteilungsvorstand der HTL Rennweg, Dr. Gerhard Hager, gezeigt. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb13} 
 	\caption{Der Abteilungsvorstand}
 \end{figure}
 \paragraph{Lektion 3} \leavevmode \\
 Wenn man im Internet nach der Medientechnik recherchiert, findet man komplexe Erklärungen, die sich teilweise widersprechen. Aus dem Grund, hat sich das Team dazu entschlossen in der dritten Lektion die Medientechnik zu erklären. Diese Lektion ist die einzige Lektion, in der es keine interaktiven Elemente gibt. Rene Weg vergleicht dabei die Größe der Medientechnik, mit der des Universums und bezieht sich somit auf das „Space-Theme“. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb14} 
 	\caption{Die Medientechnik}
 \end{figure}
 \paragraph{Lektion 4} \leavevmode \\
 Mediengestaltung spielt eine große Rolle und wird in der vierten Lektion behandelt. Dabei erklärt Rene Weg dem User, wie wichtig es ist, langweiligen Inhalt spannend zu gestalten. Als Beispiel wird die Entstehungsgeschichte der HTL aufgelistet und danach wird eine spannendere Auflistung hergezeigt. Dieses Kapitel dient dazu, dem User zu zeigen, wie wichtig Kreativität in der Medientechnik ist und, dass man mit seinem Inhalt hervorstechen muss, um erfolgreich zu sein.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb15} 
 	\caption{Kreativität}
 \end{figure}
 \paragraph{Lektion 5} \leavevmode \\
 Spiele sind sehr populär und werden in der fünften Lektion behandelt. Viele Interessenten interessieren sich für die Entwicklung von Spielen und sehen ein paar bei den Diplomarbeiten am Tag der offenen Tür. Das Team hat sich dabei dazu entschieden, den Code herzuzeigen. Damit der Code kurz und knapp ist und nicht zu kompliziert wirkt, da die User keine Erfahrung damit gemacht haben, hat sich das Team für das Spiel Memory entschieden. Nachdem der Code gezeigt wird, kann der User das Spiel auch spielen.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb16} 
 	\caption{Das Memory Spiel}
 \end{figure}
 \paragraph{Lektion 6} \leavevmode \\
 Eine Animation muss sich nicht immer flüssig bewegen. Um dem User zu zeigen, was Animationen sind, werden diese in der sechsten Lektion behandelt. Rene Weg bezieht sich dabei auch auf das Animationsvideo, welches in der ersten Lektion gezeigt wurde. Als interaktives Element kann der User ein eigenes Universum kreieren, in dem es die vordefinierten Planeten verschiebt. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb17} 
 	\caption{Die Animationen}
 \end{figure}
 \paragraph{Lektion 7} \leavevmode \\
 In der siebten geht es um Schrödingers Katze. Die Idee dahinter war, eine beliebte Referenz einer Fernsehserie, in ein interaktives Element umzuwandeln. In der Fernsehserie, The Big Bang Theory, gibt es eine Folge, in der Schrödingers Katze erwähnt wird und diese Folge ist sehr populär. Dies nahm das Team als Inspiration und programmierte eine Kiste, die geschlossen zu sein scheint. Fährt man mit der Maus über die Kiste, so sieht man eine weiße Katze. Dieses Kapitel unterstreicht, dass Kreativität sehr wichtig in der Medientechnik ist.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb18} 
 	\caption{Schrödingers Katze}
 \end{figure}
 \paragraph{Lektion 8} \leavevmode \\
 Es gibt immer mehr Dienste im Internet, welche es ermöglichen eine Webseite zu erstellen. Das bringt natürlich die Frage auf, ob man die HTL braucht, wenn man alles im Internet findet und dort lernen kann. Dafür hat das Diplomarbeitsteam den Medientechniklehrer und Medientechnikfachmann, Mag. Roman Jerabek, interviewt. In dem Interview wird die Medientechnik besprochen und ihre Wichtigkeit hinterfragt.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb19} 
 	\caption{Der Medientechniklehrer}
 \end{figure}
 \paragraph{Lektion 9} \leavevmode \\
 In der neunten Lektion können User sehen, was andere Interessenten über die Schule denken. Dies soll dazu dienen, die Entscheidung der User zu erleichtern, da sie die Meinung von anderen Interessenten hören.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb20} 
 	\caption{Der Tag der offenen Tür}
@@ -315,7 +315,7 @@ In der neunten Lektion können User sehen, was andere Interessenten über die Sc
 \paragraph{Lektion 10} \leavevmode \\
 In der zehnten Lektion verabschiedet sich Rene Weg vom User. Doch bevor die Reise zu Ende ist, gibt es noch ein Bonus-Video. Die Intention dieses Videos ist zu zeigen, was ein Absolvent der HTL Rennweg beherrscht und was ein Schüler der zweiten Klasse, alles in so kurzer Zeit gelernt hat. Durch den Kontrast zwischen dem Absolventen und dem Schüler, soll klargemacht werden, dass wenn man in die Medientechnik geht andere Interessen hat und das nicht jeder Schüler gleich ist. \leavevmode \\
 In dem folgenden Absatz werden die technischen Aspekte der interaktiven Elemente erläutert.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_abb21} 
 	\caption{Das Ende}
@@ -324,40 +324,40 @@ In dem folgenden Absatz werden die technischen Aspekte der interaktiven Elemente
 Storytelling funktioniert nicht ohne Interaktivität.  Dafür entwickelte das Team vier interaktive Elemente, welche einen Einblick in die Medientechnik geben. 
 \subsubsection{Timeline}
 Um den Usern zu zeigen, wie wichtig es ist Inhalte so spannend wie möglich zu machen, wurde eine Timeline erstellt. Diese wurde mithilfe von timeline.js erstellt, welche mittels einer Excel-Tabelle eine Timeline generiert, welche anschließend angepasst werden kann. Somit ist keine Programmierarbeit nötig und es wird gezeigt, dass man nicht unbedingt programmieren muss, um spannenden Inhalt zu erstellen.
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_timeline} 
 	\caption{Die Timeline}
 \end{figure}
 \subsubsection{Memory}
 Das Memory-Spiel kommt in der fünften Lektion vor. Dieses ist ein sehr populäres Spiel, welches jeder kennt. Das Memory-Spiel wurde mit Hilfe eines Tutorials programmiert. Die Webseite scotch.io \cite{memorytutorial} hat ein funktionales Memory Spiel programmiert, welches nachgebaut wurde. Allerdings wurden die Elemente nicht eins zu eins übernommen, sondern auf die Wünsche des Teams angepasst. Zuerst wurde eine Infrastruktur aufgebaut. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_memory} 
 	\caption{Die Infrastruktur des Memory Spieles}
 \end{figure}
 Dabei wurden immer zwei Elemente erstellt, welches dieselben Icons haben. Im JavaScript Code werden die Karten geladen und zwischen drei Klassen getoggelt. Die Klasse „open“ öffnet die Karte, „show“ sorgt dafür, dass die Karte geöffnet bleibt und „disable“ sorgt dafür, dass die Karte gesperrt ist. Danach wurde eine Klasse geschrieben, welche die Karten mischt. Sobald das HTML-Dokument aufgerufen wird, wird das Spiel geladen. Natürlich musste auch eine Klasse geschrieben werden, welche überprüft, ob die Karten identisch sind. Danach bleiben die Karten offen. Wenn sie nicht identisch sind, drehen sich die Karten wieder um. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_memory_1} 
 	\caption{Die Karten bleiben offen, wenn sie identisch sind}
 \end{figure}
 Nachdem alle Karten geöffnet wurden, wird der User dazu aufgefordert auf einen Button zu drücken, welcher ihn zur nächsten Lektion bringt. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_memory_2} 
 	\caption{Am Ende des Spieles}
 \end{figure}
 \subsubsection{Animationen}
 In der sechsten Lektion geht es um Animationen. Dabei hat sich das Team überlegt, einen Spielplatz für User zu kreieren, wo sie Planeten verschieben können. Außerdem gibt es eine Rakete, welche ebenfalls verschoben werden kann. Dies wurde mit dem JavaScript Modul interact.js erstellt. Der Source-Code wurde aus dem Tutorial, der Seite von interact.js entnommen und geändert. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_universum} 
 	\caption{Der User kann ein Universum kreieren}
 \end{figure}
 \subsubsection{Schrödingers Katze}
 In der siebten Lektion geht es um Schrödingers Katze. Die Idee war es ein Bild von einer Kiste auf die Webseite zu platzieren. Wenn der User über die Kiste fährt, sollte eine Katze in der Kiste erscheinen. Dies wurde mit Hilfe von EaselJS programmiert. Dabei wurde ein Bild von einer leeren Kiste und von einer Kiste mit einer weißen Katze übereinandergelegt. Wenn der User über die leere Kiste fährt, wird das Bild subtrahiert und das Bild mit der weißen Katze kommt zum Vorschein. Damit wird eine Anspielung auf das Paradox gemacht. 
-\begin{figure} [h]
+\begin{figure}[h]
 	\centering
 \includegraphics[width=12cm,height=12cm,keepaspectratio]{webseite_katze} 
 	\caption{Schrödingers Katze}
