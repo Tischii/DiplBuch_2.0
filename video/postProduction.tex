@@ -4,7 +4,8 @@ Bei der Auswahl des Aufnahmeformates muss man sich im Klaren sein, mit welchem C
 Die Komprimierung des Videosignals erfolgte bei allen vier Videos mittels dem H.264 Codec im QuickTime (MOV) Container. 
 \paragraph{MPEG}
 \leavevmode \\
-"MPEG ist ein standardisiertes Kompressionsverfahren, das sich speziell zur Datenreduktion von Bewegtbildern eignet." (https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]) MPEG lässt dem Gerätehersteller freie Wahl, bezüglich der Entscheidung der Datenerzeugung. Jedoch legt MPEG das Datenformat und die Dekodierung vor. Was noch beachtet werden muss, ist, dass schlussendlich ein normgerechter MPEG-kodierter Datenstrom entstehen muss, der mit einem MPEG-Decoder gelesen und wiedergegeben werden kann. Bei dem MPEG Standard setzen sich die Einzelbilder einer Videosequenz aus einer Folge von I-, B- und P-Frames zusammen. Diese Aufeinanderfolgung wird Group of Pictures, kurz GOP, genannt. Eine Group of Pictures muss mindestens ein I-Frame enthalten. I-Frames sind Indexbilder, welche die wichtigsten Bildinformationen enthalten. "B-Frames sind  bidirektionale Bilder, also Frames, die nur die Unterschiede eines Bildes zum vorhergehenden oder folgenden Bild beinhalten." (https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]) P-Frames sind Predicted Frames. Predicted Frames werden aus den vorherigen I-Frames berechnet.\newline
+\textit{"MPEG ist ein standardisiertes Kompressionsverfahren, das sich speziell zur Datenreduktion von Bewegtbildern eignet."}(https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]) MPEG lässt dem Gerätehersteller freie Wahl, bezüglich der Entscheidung der Datenerzeugung. Jedoch legt MPEG das Datenformat und die Dekodierung vor. Was noch beachtet werden muss, ist, dass schlussendlich ein normgerechter MPEG-kodierter Datenstrom entstehen muss, der mit einem MPEG-Decoder gelesen und wiedergegeben werden kann. Bei dem MPEG Standard setzen sich die Einzelbilder einer Videosequenz aus einer Folge von I-, B- und P-Frames zusammen. Diese Aufeinanderfolgung wird Group of Pictures, kurz GOP, genannt. Eine Group of Pictures muss mindestens ein I-Frame enthalten. I-Frames sind Indexbilder, welche die wichtigsten Bildinformationen enthalten. \begin{quote}B-Frames sind  bidirektionale Bilder, also Frames, die nur die Unterschiede eines Bildes zum vorhergehenden oder folgenden Bild beinhalten.(https://www.film-tv-video.de/term-word/mpeg/ [Zugriff: 26.03.2018]\end{quote} 
+P-Frames sind Predicted Frames. Predicted Frames werden aus den vorherigen I-Frames berechnet.\newline
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\textwidth]{abb27} 
@@ -14,8 +15,9 @@ Die Komprimierung des Videosignals erfolgte bei allen vier Videos mittels dem H.
 \leavevmode \\
 Der QuickTime Container ist im Grunde, wie das MPEG Containerformat aufgebaut. Jedoch ist QuickTime ein eigenes Containerformat von Apple.\citep{mpeg}
 \subsection{Kompressionsverfahren}
-Bei der Bildkompression werden die Bildinformationen in 4x4, 8x8 oder 16x16 Pixeln zusammengefasst. "In einzelnen Bildern und zwischen aufeinanderfolgenden Bildern werden dann sich wiederholende Daten identifiziert." (Jörg Jovy, 2017, S. 117)\newline
-Nun können die wiederholenden Informationen gefiltert und weggelassen werden. Bei dem MPEG-2 Container wird zum Beispiel nur jedes zwölfte Bild komplett gespeichert, wobei bei den anderen Bildern nur Teile beziehungsweise Veränderungen gespeichert werden. Da nur jedes zwölfte Bild komplett gespeichert wird, ist das Risiko enorm groß, dass Artefakte, also Bildfehler, entstehen können. Die sogenannten Artefakte entstehen bei der Umwandlung von digitalen Bildern in analoge Bildsignale.\citep{kompression}
+\begin{quote}
+Bei der Videokomprimierung werden Bildinformationen in Blöcken von 4 x 4, 8 x 8 oder 16 x 16 Pixeln zusammengefasst. In einzelnen Bildern und zwischen aufeinanderfolgenden Bildern werden dann sich wiederholende Daten identifiziert. (Jörg Jovy, 2017, S. 117)\end{quote}
+Nun können die wiederholenden Informationen gefiltert und weggelassen werden. Bei dem MPEG-2 Container wird zum Beispiel nur jedes zwölfte Bild komplett gespeichert, wobei bei den anderen Bildern nur Teile beziehungsweise Veränderungen gespeichert werden. Da nur jedes zwölfte Bild komplett gespeichert wird, ist das Risiko enorm groß, dass Artefakte, beziehungsweise Bildfehler, entstehen können. Die sogenannten Artefakte entstehen bei der Umwandlung von digitalen Bildern in analoge Bildsignale.\citep{kompression}
 \subsection{Schnittprogramme}
 \paragraph{Lightworks}
 \leavevmode \\
@@ -47,7 +49,7 @@ Die Wegschieben Blende ist sozusagen die Hauptblende und dient dazu, von einer e
 Mithilfe der Lumetri-Scopes und der Farbkorrektur in Premiere Pro kann man die Farbe im Bild korrigieren. Einerseits gibt es die Lumetri-Scopes, bei denen man auf einen Blick erkennen kann, welche Farbinformationen nicht so dominant sind, ob das Bild über- oder unterbelichtet ist und wie die Helligkeitsverteilung im Bild ist. Und zum anderen gibt es die Farbkorrektur "Lumetri-Farbe" mit der man die oben genannten Eigenschaften verbessern kann.\citep{cc}
 \paragraph{Vektorskop}
 \leavevmode \\
-"Das Vektorskop gibt Auskunft über die Farbverteilung im Bild." (Jörg Jovy, 2017, S. 523) Auf dem Vektorskop sind die Grundfarben aus dem RGB und dem CMYK Farbraum abgebildet. Also: Rot, Grün, Blau, Cyan, Magenta, Yellow. Je weiter der Signalpunkt sich vom Zentrum entfernt, desto höher ist die jeweilige Farbsättigung. Hätte man ein Schwarz-Weiß-Bild würde man einen Punkt in der Mitte sehen.\citep{vektorskop}\newline
+\textit{"Das Vektorskop gibt Auskunft über die Farbverteilung im Bild."}(Jörg Jovy, 2017, S. 523) Auf dem Vektorskop sind die Grundfarben aus dem RGB und dem CMYK Farbraum abgebildet. Also: Rot, Grün, Blau, Cyan, Magenta, Yellow. Je weiter der Signalpunkt sich vom Zentrum entfernt, desto höher ist die jeweilige Farbsättigung. Hätte man ein Schwarz-Weiß-Bild würde man einen Punkt in der Mitte sehen.\citep{vektorskop}\newline
 Wie man auf der Abbildung \ref{fig:abb22} sehen kann, hat das Bild eine hohe Farbsättigung von Yellow und Rot, wohingegen es nur wenige Blauanteile hat.
 \begin{figure}[H]
 	\centering
@@ -65,7 +67,7 @@ Bei dem Histogramm sieht man, wie bei dem Vektorskop, dass die Farben Yellow und
 \end{figure}
 \paragraph{Waveform-Monitor}
 \leavevmode \\
-Der Waveform-Monitor zeigt die Helligkeitsverteilung im Bild. Die Helligkeit wird als Häufigkeitsverteilung wiedergegeben, wobei 100\% Weiß einen Messwert von 100 IRE entsprechen. "IRE ist die international übliche Skalierung." (Jörg Jovy, 2017, S. 522)\newline
+Der Waveform-Monitor zeigt die Helligkeitsverteilung im Bild. Die Helligkeit wird als Häufigkeitsverteilung wiedergegeben, wobei 100\% Weiß einen Messwert von 100 IRE entsprechen. \textit{"IRE ist die international übliche Skalierung."}(Jörg Jovy, 2017, S. 522)\newline
 0 IRE entsprechen daher Schwarz. Mithilfe des Waveform-Monitors kann man die sogenannten Lichter, Mitten und Tiefen einfach analysieren.\citep{waveform}\newline
 Wie man auf der Abbildung \ref{fig:abb20} sehen kann, reichen die Tiefen bis zu dem Null Wert, das heißt es werden auch die Schatten völlig ausgeschöpft. Die Mitten sollten zwischen 50 und 70\% liegen und befinden sich auch, wie man hier sehen kann, in dem Bereich.\citep{waveformZwei}
 \begin{figure}[H]
@@ -102,7 +104,7 @@ Bei den Farbrädern können die Schatten, Mitteltöne und Glanzlichter angepasst
 \subsection{Masken}
 In Adobe Premiere Pro kann man mit Masken einen bestimmten Bereich markieren, den man anschließend verändern möchte. In der folgenden Abbildung \ref{fig:abb28} kann man die Verwendung der Maske von dem Interview mit dem Abteilungsvorstand sehen. 
 Hierbei wurde die Maske mit einem Weichzeichner versehen, um den Hintergrund unscharf wirken zu lassen. Die Masken können mit einem Ellipsen-Werkzeug, Rechteck-Werkzeug oder einem Zeichenstift erstellt werden. Für die abgebildete Maske kam der Zeichenstift in Verwendung. Nach dem die Maske gezeichnet wurde, kann man die Maske frame für frame bewegen. In diesem Fall konnte sich die Maske nicht automatisch mitbewegen, da sich der Hintergrund von der Maske nicht abgehoben hat. Somit musste die Maske manuell nachbearbeitet werden.\newline
-Um einen flüssigen Übergang zwischen dem Maskenauswahlrahmen und dem Bereich außerhalb der Auswahl zu erzeugen, kann man eine weiche Kante anwenden.\citep{masken}\begin{quote}Die weichen Kanten glätten den Maskenauswahlrahmen, sodass die Maske mit dem Bereich außerhalb der Auswahl verschmilzt und ein ästhetisch ansprechendes Ergebnis entsteht." (https://helpx.adobe.com/de/premiere-pro/using/masking-tracking.html [Zugriff: 31.03.2018])\end{quote}
+Um einen flüssigen Übergang zwischen dem Maskenauswahlrahmen und dem Bereich außerhalb der Auswahl zu erzeugen, kann man eine weiche Kante anwenden.\citep{masken}\begin{quote}Die weichen Kanten glätten den Maskenauswahlrahmen, sodass die Maske mit dem Bereich außerhalb der Auswahl verschmilzt und ein ästhetisch ansprechendes Ergebnis entsteht. (https://helpx.adobe.com/de/premiere-pro/using/masking-tracking.html [Zugriff: 31.03.2018])\end{quote}
 Weiters wurde die Maske bei dem Tag der offenen Tür Video angewandt. Dies war deswegen notwendig, da aufgrund des ständigen Lichtwechsels die Gesichtsfarbe der Personen sich immer änderte. 
 \begin{figure}[H]
 	\centering

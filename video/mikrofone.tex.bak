@@ -1,7 +1,7 @@
 \section{Mikrofone}
 \subsection{Richtcharakteristik}
 \begin{quote}
-"Die Richtcharakteristik definiert, aus welcher Richtung das Mikrofon den Schall besonders empfindlich aufnimmt. Stark vereinfacht gesagt: Aus welcher Richtung aufgenommen wird." (https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018])
+Die Richtcharakteristik definiert, aus welcher Richtung das Mikrofon den Schall besonders empfindlich aufnimmt. Stark vereinfacht gesagt: Aus welcher Richtung aufgenommen wird. (https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/ [Zugriff: 17.03.2018])
 \end{quote}
 \subsubsection{Kugelcharakteristik}
 Bei der Kugelcharakteristik wird der Schall von allen Richtungen aufgenommen, das heißt es wird von keiner bevorzugten Richtung aufgenommen. Das Problem, was dadurch entsteht, ist, dass die Rückkoppelanfälligkeit sehr hoch ist, wodurch Mikrofone mit einer Kugelcharakteristik schlecht für Bühnen geeignet sind.\citep{kugel}
@@ -12,7 +12,7 @@ Bei der Kugelcharakteristik wird der Schall von allen Richtungen aufgenommen, da
 \end{figure}
 \footnotetext{Quelle: https://www.delamar.de/mikrofon/richtcharakteristik-mikrofon-22647/}
 \subsubsection{Nierencharakteristik}
-Die Niere nimmt, im Gegensatz zur Kugelcharakteristik, aus einer bevorzugten Richtung auf. Im Gegensatz zu der Kugelcharakteristik, bei der der Schall von allen Seiten aufgenommen wird, wird er bei der Niere nur von einer Seite aufgenommen, meistens von vorne. Der Schall wird von den Seiten nur sehr leise bis gar nicht aufgenommen. Der Vorteil der Niere ist, dass sie rückkopplungsfester, als die Kugel ist und sie so auch beispielsweise bei Konzerten verwendet werden kann. Der Nachteil der Niere ist der sogenannte Nahbesprechungseffekt.\citep{naheffekt}\citep{kugel} Das bedeutet: "Ab einer gewissen Nähe der Schallquelle werden die tieffrequenten Anteile dominanter." (https://www.delamar.de/faq/nahbesprechungseffekt-34021/ [Zugriff: 17.03.2018])
+Die Niere nimmt, im Gegensatz zur Kugelcharakteristik, aus einer bevorzugten Richtung auf. Im Gegensatz zu der Kugelcharakteristik, bei der der Schall von allen Seiten aufgenommen wird, wird er bei der Niere nur von einer Seite aufgenommen, meistens von vorne. Der Schall wird von den Seiten nur sehr leise bis gar nicht aufgenommen. Der Vorteil der Niere ist, dass sie rückkopplungsfester, als die Kugel ist und sie so auch beispielsweise bei Konzerten verwendet werden kann. Der Nachteil der Niere ist der sogenannte Nahbesprechungseffekt.\citep{naheffekt}\citep{kugel} Das bedeutet: \textit{"Ab einer gewissen Nähe der Schallquelle werden die tieffrequenten Anteile dominanter."}(https://www.delamar.de/faq/nahbesprechungseffekt-34021/ [Zugriff: 17.03.2018])
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.4\textwidth]{abb5} 

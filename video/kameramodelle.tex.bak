@@ -19,8 +19,8 @@ Die CCD Sensoren haben zwar nicht das Problem mit dem Rolling-Shutter-Effekt, je
 \subsection{Canon EOS 60D}
 Die Canon EOS 60D DSLR (Digital Single Lens Reflex) Kamera bietet einen 18 Megapixel APS-C CMOS Sensor mit einer Größe von 22,3 mm x 14,9 mm. Die Spiegelreflexkamera nimmt mit Full HD (1920 x 1080) auf, wobei standardgemäß mit 25 Bildern pro Sekunde aufgenommen wird. Die Auflösung wird meistens mit 1080p gekennzeichnet, wobei das p für progressive steht, also für die Vollbilder.\citep{canon60}\citep{canon60Zwei}
 \subsection{Canon EOS 70D}
-Die Canon EOS 70D bietet einen minimal größeren Sensor im Gegensatz zu der Canon EOS 60D. Die Größe des Sensors der Canon EOS 70D beträgt 22,5 mm x 15,0 mm. Die Sensorgröße einer Kamera ist entscheidend, da folgendes gilt: "Je kleiner der Sensor, desto geringer sind die Möglichkeiten, mit einer definierten Schärfentiefe zu arbeiten." (Jörg Jovy, 2017, S. 136)\newline
-Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen.\citep{canon70} Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden\citep{intra}, was sich in der Post Production positiv widerspiegelt, da man keine Gruppen aus Bildern bearbeiten muss, sondern im Notfall jedes einzelne Bild bearbeiten kann. Weiters spielt bei der Wahl der richtigen Kamera, der Cropfaktor eine wichtige Rolle. "Je kleiner ein Sensor ist, desto kleiner ist auch der Bildwinkel des Objektivs."(Jörg Jovy, 2017, S. 138)\newline
+Die Canon EOS 70D bietet einen minimal größeren Sensor im Gegensatz zu der Canon EOS 60D. Die Größe des Sensors der Canon EOS 70D beträgt 22,5 mm x 15,0 mm. Die Sensorgröße einer Kamera ist entscheidend, da folgendes gilt: \textit{"Je kleiner der Sensor, desto geringer sind die Möglichkeiten, mit einer definierten Schärfentiefe zu arbeiten."}(Jörg Jovy, 2017, S. 136)\newline
+Die Canon EOS 70D nimmt ebenfalls mit Full HD auf, wobei zu beachten ist, dass sie zusätzlich die Möglichkeit bietet, mit Intra-Frame oder Inter-Frame aufzunehmen.\citep{canon70} Bei Intra- oder Inter-Frames wird jedes Einzelbild komprimiert, das heißt, es kann auf jedes einzelne Bild zugegriffen werden\citep{intra}, was sich in der Post Production positiv widerspiegelt, da man keine Gruppen aus Bildern bearbeiten muss, sondern im Notfall jedes einzelne Bild bearbeiten kann. Weiters spielt bei der Wahl der richtigen Kamera, der Cropfaktor eine wichtige Rolle. \textit{"Je kleiner ein Sensor ist, desto kleiner ist auch der Bildwinkel des Objektivs."}(Jörg Jovy, 2017, S. 138)\newline
 Das bedeutet, dass die Abbildungsfläche beschnitten wird, was einen engeren Bildausschnitt liefert und somit ein vergrößertes Bild darstellt. Was bei manchen DSLR Kameras zu beachten ist, ist das sie einen Cropfaktor von 1,6 besitzen. So verhält sich durch den Cropfaktor von 1,6 ein Normalobjektiv mit 50mm Brennweite, wie ein leichtes Teleobjektiv mit 80mm Brennweite.\citep{crop}
 Da die Canon EOS 70D einen minimal größeren Sensor besitzt, und die Möglichkeit bietet, mit Intra-Frames aufzunehmen, wurde die Canon EOS 70D DSLR Kamera für alle Aufnahmen verwendet.
 \subsection{Objektive}
@@ -28,7 +28,7 @@ Die Brennweite eines Objektivs legt den Bildausschnitt fest. Die Brennweite wird
 Anhand der Abbildung \ref{fig:abb1} kann man gut erkennen, dass ab 10 mm bis 24 mm Weitwinkelobjektive zum Einsatz kommen. Ein Normalobjektiv erkennt man daran, da es eine Brennweite von 50 mm besitzt und somit einen Bildwinkel von 46$^\circ$ hat. Teleobjektive finden ihren Einsatz bei 80 mm bis 200 mm.\citep{objektiv} Anhand der Abbildung \ref{fig:abb1} kann man gut den Unterschied zwischen der Brennweite von 10 mm und einem Bildwinkel mit 130$^\circ$, und einem Objektiv mit einer Brennweite von 200 mm mit einem 12$^\circ$ Bildwinkel erkennen. 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=0.7\textwidth]{abb1} 
+	\includegraphics[width=0.9\textwidth]{abb1} 
 	\caption[Brennweite und Bildwinkel]{Brennweite und Bildwinkel\footnotemark}\label{fig:abb1}
 \end{figure}
 \footnotetext{Quelle: https://www.foto-kurs.com/objektiv-digitalkamera.htm}
@@ -48,7 +48,7 @@ Anhand der Abbildung \ref{fig:abb1} kann man gut erkennen, dass ab 10 mm bis 24 
 \end{itemize}
 \paragraph{Schärfentiefe}
 \leavevmode \\
-"Die Schärfentiefe ist das Maß für den in einem Bild scharf abgebildeten Bereich." (Jörg Jovy, 2017, S. 223)\newline
+\textit{"Die Schärfentiefe ist das Maß für den in einem Bild scharf abgebildeten Bereich."}(Jörg Jovy, 2017, S. 223)\newline
 Der Sinn der Schärfentiefe ist, ein Objekt oder Motiv vom Hintergrund abzuheben, also es schärfer darstellen zu lassen als den Hintergrund.\citep{scharf}\newline
 Die Schärfentiefe kann durch drei Parameter eingestellt werden:
 \begin{itemize}

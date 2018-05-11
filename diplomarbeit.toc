@@ -1,6 +1,6 @@
-\babel@toc {ngerman}{}
-\babel@toc {english}{}
-\babel@toc {ngerman}{}
+\select@language {ngerman}
+\select@language {english}
+\select@language {ngerman}
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{viii}{chapter*.5}
 \contentsline {chapter}{\numberline {1}Das Team}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Hatice Akyokus}{1}{section.1.1}

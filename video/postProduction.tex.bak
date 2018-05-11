@@ -11,10 +11,12 @@ Die Komprimierung des Videosignals erfolgte bei allen vier Videos mittels dem H.
 	\caption[Group of Pictures]{Group of Pictures\footnotemark}
 \end{figure}
 \footnotetext{Quelle: https://www.itwissen.info/GOP-group-of-picture.html}
+\leavevmode \\
 Der QuickTime Container ist im Grunde, wie das MPEG Containerformat aufgebaut. Jedoch ist QuickTime ein eigenes Containerformat von Apple.\citep{mpeg}
 \subsection{Kompressionsverfahren}
-Bei der Bildkompression werden die Bildinformationen in 4x4, 8x8 oder 16x16 Pixeln zusammengefasst. "In einzelnen Bildern und zwischen aufeinanderfolgenden Bildern werden dann sich wiederholende Daten identifiziert." (Jörg Jovy, 2017, S. 117)\newline
-Nun können die wiederholenden Informationen gefiltert und weggelassen werden. Bei dem MPEG-2 Container wird zum Beispiel nur jedes zwölfte Bild komplett gespeichert, wobei bei den anderen Bildern nur Teile beziehungsweise Veränderungen gespeichert werden. Da nur jedes zwölfte Bild komplett gespeichert wird, ist das Risiko enorm groß, dass Artefakte, also Bildfehler, entstehen können. Die sogenannten Artefakte entstehen bei der Umwandlung von digitalen Bildern in analoge Bildsignale.\citep{kompression}
+\begin{quote}
+Bei der Videokomprimierung werden Bildinformationen in Blöcken von 4 x 4, 8 x 8 oder 16 x 16 Pixeln zusammengefasst. In einzelnen Bildern und zwischen aufeinanderfolgenden Bildern werden dann sich wiederholende Daten identifiziert. (Jörg Jovy, 2017, S. 117)\end{quote}
+Nun können die wiederholenden Informationen gefiltert und weggelassen werden. Bei dem MPEG-2 Container wird zum Beispiel nur jedes zwölfte Bild komplett gespeichert, wobei bei den anderen Bildern nur Teile beziehungsweise Veränderungen gespeichert werden. Da nur jedes zwölfte Bild komplett gespeichert wird, ist das Risiko enorm groß, dass Artefakte, beziehungsweise Bildfehler, entstehen können. Die sogenannten Artefakte entstehen bei der Umwandlung von digitalen Bildern in analoge Bildsignale.\citep{kompression}
 \subsection{Schnittprogramme}
 \paragraph{Lightworks}
 \leavevmode \\
